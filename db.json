@@ -37,7 +37,9 @@
                     "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwc0e2083f/FC6_PHP/FC6_IMMERIVE-BLOC-2_DESK.jpg",
                     "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw40149689/FC6_PHP/FC6_IMMERSIVE-BLOC-3_DESK.jpg"
                     ],
-                    "videos": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=nzaHfpL2AdA"
+                    ],
                     "price": 59.99, 
                     "discount": 0,
                     "isFree": false,
@@ -156,9 +158,9 @@
                     
                 ],
                 "videos": [
-                    "https://img.youtube.com/vi_webp/VR2KqWGOpFI/mqdefault.webp",
-                    "https://img.youtube.com/vi_webp/DnVYZbGrEJM/mqdefault.webp",
-                    "https://img.youtube.com/vi_webp/J1Sy8LYRXYc/mqdefault.webp"
+                    "https://www.youtube.com/watch?v=VR2KqWGOpFI",
+                    "https://www.youtube.com/watch?v=DnVYZbGrEJM",
+                    "https://www.youtube.com/watch?v=J1Sy8LYRXYc"
                 ],
                 "price": 59.99,
                 "discount": 0,
@@ -299,9 +301,7 @@
                    
                 ],
                 "videos": [
-                    "https://img.youtube.com/vi_webp/VR2KqWGOpFI/mqdefault.webp",
-                    "https://img.youtube.com/vi_webp/DnVYZbGrEJM/mqdefault.webp",
-                    "https://img.youtube.com/vi_webp/J1Sy8LYRXYc/mqdefault.webp"
+                    
                 ],
                 "price": 89.99,
                 "discount": 0,
@@ -679,8 +679,11 @@
                     "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw2120d77b/R6S X/V2_r6x-doublepush2.jpg"
                 ],
                 "videos": [
+                    "https://www.youtube.com/watch?v=BI9fgQY0d5I",
+                    "https://www.youtube.com/watch?v=A0Hw96M5bC4"
+
                 ],
-                "price": 79.99,
+                "price": 39.99,
                 "discount": 0,
                 "isFree": false,
                 "saleCount": 0,
@@ -808,8 +811,10 @@
                     "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw2120d77b/R6S X/V2_r6x-doublepush2.jpg"
                 ],
                 "videos": [
+                    "https://www.youtube.com/watch?v=BI9fgQY0d5I",
+                    "https://www.youtube.com/watch?v=A0Hw96M5bC4"
                 ],
-                "price": 99.99,
+                "price": 59.99,
                 "discount": 0,
                 "isFree": false,
                 "saleCount": 0,
@@ -939,8 +944,8 @@
                 ],
                 "videos": [
                     "https://www.youtube.com/watch?v=VKXB0WB6jJ8",
-                    "",
-                    ""
+                    "https://www.youtube.com/watch?v=1LLB-WNvQEQ",
+                    "https://www.youtube.com/watch?v=Xs2w3qSEBCs"
                 ],
                 "price": 69.99,
                 "discount": 0,
@@ -1097,7 +1102,9 @@
                     "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwa1b64a13/ACV/ACV_Immersive_03.jpg"
                 ],
                 "videos": [
-                    
+                    "https://www.youtube.com/watch?v=gncCKXqjtaE",
+                    "https://www.youtube.com/watch?v=d0epU_G4GWY",
+                    "https://www.youtube.com/watch?v=EJZlPKD3E-4"
                 ],
                 "price": 139.99,
                 "discount": 0,
@@ -1237,7 +1244,9 @@
 
                 ],
                 "videos": [
-                    
+                    "https://www.youtube.com/watch?v=GbLFsOq5ipI",
+                    "https://www.youtube.com/watch?v=s_SJZSAtLBA",
+                    "https://www.youtube.com/watch?v=gENNqLpefa4"
                 ],
                 "price": 114.99,
                 "discount": 0,
@@ -1401,7 +1410,7 @@
                     "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw3f1612a2/Brawlhalla/Brawl_Module3.jpg"
                 ],
                 "videos": [
-                    
+                    "https://www.youtube.com/watch?v=Odj7pIsHRt0"
                 ],
                 "price": 0,
                 "discount": 0,
