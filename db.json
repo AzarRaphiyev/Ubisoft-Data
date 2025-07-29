@@ -663,6 +663,138 @@
                 "title": "Tom Clancy's Rainbow Six Siege X",
                 "type": "basedgame",
                 "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwd4b38260/R6S X/R6X-logo-eng.png",
+                "cardImg": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5XHFligRh0G5sIwqf1bCmR/d2004465daba39fef22c0075cc77fb57/rainbow-six-siege-x_boxshot.jpg",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwdaa0b962/images/pdpbanner/67c1bc71f98b730ad03b5d48-bg.jpg?sw=1920&sfrm=jpg",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw9ae6ed36/images/large/67c1bc71f98b730ad03b5d48-m.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw9b8c1554/images/large/67c0ae5b4997ec4c09ed9c34-pcs.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw4924c3b5/images/large/67c0ae5b4997ec4c09ed9c34-2.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw748e7f31/images/large/67c0ae5b4997ec4c09ed9c34-3.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwac4643b2/images/large/67c1bc71f98b730ad03b5d48-4.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwaab9a8f9/images/large/67c0ae5b4997ec4c09ed9c34-5.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwd5649181/images/large/67c0ae5b4997ec4c09ed9c34-6.jpg?sw=500&sh=270&sm=fit"
+                ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwddfcce95/R6S X/V2_r6x-doublepush1.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw2120d77b/R6S X/V2_r6x-doublepush2.jpg"
+                ],
+                "videos": [
+                    "https://www.youtube.com/watch?v=BI9fgQY0d5I",
+                    "https://www.youtube.com/watch?v=A0Hw96M5bC4"
+
+                ],
+                "price": 0,
+                "discount": 0,
+                "isFree": true,
+                "saleCount": 0,
+                "viewCount": 1,
+                "releaseDate": "2025-06-10",
+                "publisher": "UBISOFT",
+                "developer": "Ubisoft Montreal",
+                "genre": ["Multiplayer", "Co-op", "Shooter"],
+                "platforms": ["PC", "PS5", "Xbox", "App Store"],
+                "languages": [
+                    {
+                        "language": "English",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "French",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "German",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Italian",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Spanish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Japanese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Chinese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Thai",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    }
+                ],
+                "brand": "Rainbow Six",
+                "productEdition": "Free Access",
+                "shortDescription": "Tom Clancy's Rainbow Six Siege X is an elite, tactical team-based shooter where superior planning and execution triumph. Siege X marks the biggest evolution in its history, and deepens the game's tactical core.",
+                "fullDescription": [
+                    {
+                        "heading": "TACTICAL EVOLUTION",
+                        "content": "Tom Clancy's Rainbow Six Siege X is an elite, tactical team-based shooter where superior planning and execution triumph. Siege X marks the biggest evolution in its history."
+                    },
+                    {
+                        "heading": "ENHANCED TACTICAL CORE",
+                        "content": "Experience the deepest tactical gameplay with enhanced mechanics that reward strategic thinking and precise execution in high-stakes multiplayer combat."
+                    },
+                    {
+                        "heading": "ELITE EDITION CONTENT",
+                        "content": "The Elite Edition includes premium content, exclusive operators, and additional customization options to enhance your tactical experience."
+                    }
+                ],
+                "ageRating": {
+                    "rating": 18,
+                    "reasons": ["Bad Language", "Violence", "In-Game Purchases (includes Paid Random Items)"]
+                },
+                "features": [
+                    "Multiplayer",
+                    "Co-op"
+                ],
+                "systemRequirements": {
+                    "minimum": {
+                        "os": "Windows 10/11, DirectX 12",
+                        "cpu": "AMD Ryzen3 3100, Intel i3 8100",
+                        "gpu": "NVIDIA GTX 1650 4GB, AMD RX 5500XT 4GB, INTEL ARC A380 6GB",
+                        "ram": "8GB",
+                        "vram": "4GB",
+                        "storage": "65GB SSD"
+                    },
+                    "recommended": {
+                        "os": "Windows 11, DirectX 12",
+                        "cpu": "AMD Ryzen5 3600, Intel i5-10400",
+                        "gpu": "NVIDIA RTX 2060 6GB, AMD RX 6600 8GB, INTEL ARC A750 8GB",
+                        "ram": "16GB",
+                        "vram": "6GB",
+                        "storage": "65GB SSD"
+                    }
+                },
+                "multiplayer": true,
+                "region": "Global",
+                "availability": true
+            },
+            {
+                "id": "67c1bc71f98b730ad03b5d48",
+                "title": "Tom Clancy's Rainbow Six Siege X",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwd4b38260/R6S X/R6X-logo-eng.png",
                 "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw29c5c351/images/large/67c1bc71f98b730ad03b5d48.jpg?sw=300&sh=395&sm=fit",
                 "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwdaa0b962/images/pdpbanner/67c1bc71f98b730ad03b5d48-bg.jpg?sw=1920&sfrm=jpg",
                 "screenshots": [
