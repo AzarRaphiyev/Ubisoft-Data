@@ -1,0 +1,1721 @@
+{
+    
+    
+    
+   "Users": [
+                {
+                        "id": 1,
+                        "username": "Azer",
+                        "email": "raphiyev@gmail.com",
+                        "password": "admin123",
+                        "birthday": "17.06.2003",
+                        "role": "super_admin",
+                        "createdAt": "2025-01-01T00:00:00.000Z",
+                        "isActive": true,
+                        "lastLogin":null
+                }
+            ],
+
+   "Games": [
+                {
+                    "id": "3001d7ba-4e1c-421d-9907-fd11268dbc32",
+                    "title": "Far Cry 6",
+                    "type": "basedgame",
+                    "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwb1063951/FC6_PHP/FCT Logo RGB.png",
+                    "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw7387f247/images/large/5ecd2c925cdf9a1528a8c1d1.jpg?sw=300&sh=395&sm=fit", 
+                    "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw350003b1/images/pdpbanner/tetrapdpbanner.jpg?sw=1920&sfrm=jpg", 
+                    "screenshots": [
+                        "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwec9a3841/images/large/616e983f0d253c42d49fa640-5.jpg?sw=500&sh=270&sm=fit",
+                        "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw0de9e65a/images/large/616e983f0d253c42d49fa640-6.jpg?sw=500&sh=270&sm=fit",
+                        "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwe18e1e04/images/large/616e983f0d253c42d49fa640-7.jpg?sw=500&sh=270&sm=fit",
+                        "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwdd435c35/images/large/616e983f0d253c42d49fa640-8.jpg?sw=500&sh=270&sm=fit",
+                        "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw98d179b4/images/large/616e983f0d253c42d49fa640-9.jpg?sw=500&sh=270&sm=fit",
+                        "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa54268cd/images/large/616e983f0d253c42d49fa640-10.jpg?sw=500&sh=270&sm=fit"
+                    ],
+                    "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw601afc58/FC6_PHP/FC6_IMMERIVE-BLOC-1_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwc0e2083f/FC6_PHP/FC6_IMMERIVE-BLOC-2_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw40149689/FC6_PHP/FC6_IMMERSIVE-BLOC-3_DESK.jpg"
+                    ],
+                    "videos": [],
+                    "price": 59.99, 
+                    "discount": 0,
+                    "isFree": false,
+                    "saleCount": 0,
+                    "viewCount": 0,
+                    "releaseDate": "2021-10-07",
+                    "publisher": "UBISOFT",
+                    "developer": "Ubisoft Toronto / Montreal / Kyiv / Shanghai / Berlin",
+                    "genre": ["Shooter", "Action", "Adventure"],
+                    "platforms": ["PC", "PS4", "PS5", "Xbox"],
+                    "languages": [
+                        {
+                            "language": "English",
+                            "audio": true,
+                            "interface": true,
+                            "subtitle": true
+                        },
+                        {
+                            "language": "French", 
+                            "audio": true,
+                            "interface": true,
+                            "subtitle": true
+                        },
+                        {
+                            "language": "German",
+                            "audio": false,
+                            "interface": true,
+                            "subtitle": true
+                        },
+                        {
+                            "language": "Italian",
+                            "audio": false,
+                            "interface": true,
+                            "subtitle": true
+                        },
+                        {
+                            "language": "Spanish",
+                            "audio": false,
+                            "interface": true,
+                            "subtitle": true
+                        },
+                        {
+                            "language": "Polish",
+                            "audio": false,
+                            "interface": true,
+                            "subtitle": true
+                        }
+                    ],
+                    "brand": "Far Cry",
+                    "productEdition": "Standard Edition",
+                    "shortDescription": "Dive into the gritty world of a modern-day guerilla revolution to liberate a nation from a dictator and his son.",
+            "fullDescription":[
+                {
+                    "heading":"FIGHT FOR FREEDOM",
+                    "content":"Play as Dani Rojas, a local Yaran and become a guerrilla fighter to liberate the nation."
+                },
+                {
+                    "heading":"YARA TORN APART",
+                    "content":"Fight against Anton's troops in the largest Far Cry playground to date across jungles, beaches and Esperanza the capital city of Yara."
+                },
+                {
+                    "heading":"GUERRILLA FIREPOWER",
+                    "content":"Employ makeshift weapons, vehicles, and Amigos, the new Fangs for Hire to burn the tyrannical regime to the ground."
+                }
+            ],
+            "ageRating": {
+                "rating": 18,
+                "reasons": ["Bad Language", "In-Game Purchases", "Violence"]
+            },
+            "features": [
+                "Single Player"
+            ],
+            "systemRequirements": {
+                "minimum": {
+                    "os": "Windows 10 (64-bit)",
+                    "cpu": "AMD Ryzen 3 1200 3.1 GHz / Intel Core i5-4460 3.2 GHz",
+                    "gpu": "AMD RX 460 / NVIDIA GeForce GTX 960",
+                    "ram": "8GB",
+                    "vram": "4GB",
+                    "storage": "91GB + 8GB DLCs + 62GB HD Texture pack"
+                },
+                "recommended": {
+                    "os": "Windows 10 (64-bit)",
+                    "cpu": "AMD Ryzen 5 3600X 3.8 GHz / Intel Core i7-9700 3.6 GHz",
+                    "gpu": "AMD RX 5700XT / NVIDIA GeForce RTX 2070 Super",
+                    "ram": "16GB",
+                    "vram": "8GB",
+                    "storage": "91GB + 8GB DLCs + 62GB HD Texture pack"
+                }
+            },
+             
+              "multiplayer": false,
+              "region": "Global",
+            "availability": true
+            
+            
+                        
+             },
+             {
+                "id": "591567f6ca1a6460388b4568",
+                "title": "Far Cry 5",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw6bbcf5bf/Far Cry/FC5_Logo.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw35e923ad/images/large/591567f6ca1a6460388b4568.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw52211af4/images/pdpbanner/591567f6ca1a6460388b4568-bg.jpg?sw=1920&sfrm=jpg",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwb2488575/images/large/591567f6ca1a6460388b4568-10.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw65aa524f/images/large/591567f6ca1a6460388b4568-9.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwec90b9b5/images/large/591567f6ca1a6460388b4568-6.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa3763b3b/images/large/591567f6ca1a6460388b4568-5.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwac4643b2/images/large/591567f6ca1a6460388b4568-4.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw42b4c33b/images/large/591567f6ca1a6460388b4568-12.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwd5518c6b/images/large/591567f6ca1a6460388b4568-13.jpg?sw=500&sh=270&sm=fit"
+                ],
+                "descriptionImg": [
+                    
+                ],
+                "videos": [
+                    "https://img.youtube.com/vi_webp/VR2KqWGOpFI/mqdefault.webp",
+                    "https://img.youtube.com/vi_webp/DnVYZbGrEJM/mqdefault.webp",
+                    "https://img.youtube.com/vi_webp/J1Sy8LYRXYc/mqdefault.webp"
+                ],
+                "price": 59.99,
+                "discount": 0,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 0,
+                "releaseDate": "2018-03-27",
+                "publisher": "UBISOFT",
+                "developer": "Ubisoft Montreal",
+                "genre": ["Shooter", "Open World", "Co-op", "Multiplayer"],
+                "platforms": ["PC", "PS4", "Xbox"],
+                "languages": [
+                    {
+                        "language": "English",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "French",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "German",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Italian",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Spanish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Polish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Portuguese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Russian",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Japanese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Chinese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    }
+                ],
+                "brand": "Far Cry",
+                "productEdition": "Standard Edition",
+                "shortDescription": "Welcome to Hope County, Montana, land of the free and the brave but also home to a fanatical doomsday cult known as the Project at Eden's Gate.",
+                "fullDescription": [
+                    {
+                        "heading": "FIGHT AGAINST A DEADLY CULT",
+                        "content": "Free Hope County in solo or two-player co-op. Recruit Guns and Fangs for hire to help defeat the cult."
+                    },
+                    {
+                        "heading": "SPARK THE FIRES OF RESISTANCE",
+                        "content": "Fight against the cult's leader Joseph Seed and his siblings, the Heralds, to spark the fires of resistance that will liberate the besieged community."
+                    },
+                    {
+                        "heading": "VAST OPEN WORLD",
+                        "content": "Explore Hope County's rivers, lands, and skies with the largest customizable weapon and vehicle selection ever in a Far Cry game."
+                    }
+                ],
+                "ageRating": {
+                    "rating": 18,
+                    "reasons": ["Bad Language", "In-Game Purchases", "Violence"]
+                },
+                "features": [
+                    "Single Player",
+                    "Multiplayer"
+                ],
+                "systemRequirements": {
+                    "minimum": {
+                        "os": "Windows 10 (64-bit only)",
+                        "cpu": "Intel Core i5-2400 @ 3.1 GHz or AMD FX-6300 @ 3.5 GHz",
+                        "gpu": "NVIDIA GeForce GTX 670 or AMD R9 270 (2GB VRAM)",
+                        "ram": "8GB",
+                        "vram": "2GB",
+                        "storage": "40GB"
+                    },
+                    "recommended": {
+                        "os": "Windows 10 (64-bit only)",
+                        "cpu": "Intel Core i7-4770 @ 3.4 GHz or AMD Ryzen 5 1600 @ 3.2 GHz",
+                        "gpu": "NVIDIA GeForce GTX 970 or AMD R9 290X (4GB VRAM)",
+                        "ram": "8GB",
+                        "vram": "4GB",
+                        "storage": "40GB"
+                    }
+                },
+                "multiplayer": true,
+                "region": "Global",
+                "availability": true
+            },
+            {
+                "id": "591980f94e0165260a8b4568",
+                "title": "Far Cry 5 Gold Edition",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw6bbcf5bf/Far Cry/FC5_Logo.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw9d1ff632/images/large/591980f94e0165260a8b4568.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw52211af4/images/pdpbanner/591567f6ca1a6460388b4568-bg.jpg?sw=1920&sfrm=jpg",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwb2488575/images/large/591567f6ca1a6460388b4568-10.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw65aa524f/images/large/591567f6ca1a6460388b4568-9.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwec90b9b5/images/large/591567f6ca1a6460388b4568-6.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa3763b3b/images/large/591567f6ca1a6460388b4568-5.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwac4643b2/images/large/591567f6ca1a6460388b4568-4.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw42b4c33b/images/large/591567f6ca1a6460388b4568-12.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwd5518c6b/images/large/591567f6ca1a6460388b4568-13.jpg?sw=500&sh=270&sm=fit"
+                ],
+                "descriptionImg": [
+                   
+                ],
+                "videos": [
+                    "https://img.youtube.com/vi_webp/VR2KqWGOpFI/mqdefault.webp",
+                    "https://img.youtube.com/vi_webp/DnVYZbGrEJM/mqdefault.webp",
+                    "https://img.youtube.com/vi_webp/J1Sy8LYRXYc/mqdefault.webp"
+                ],
+                "price": 89.99,
+                "discount": 0,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 0,
+                "releaseDate": "2018-03-27",
+                "publisher": "UBISOFT",
+                "developer": "Ubisoft Montreal",
+                "genre": ["Shooter", "Open World", "Co-op", "Multiplayer"],
+                "platforms": ["PC", "PS4", "Xbox"],
+                "languages": [
+                    {
+                        "language": "English",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "French",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "German",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Italian",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Spanish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Polish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Portuguese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Russian",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Japanese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Chinese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    }
+                ],
+                "brand": "Far Cry",
+                "productEdition": "Gold Edition",
+                "shortDescription": "The Gold Edition includes the game, the Digital Deluxe Pack & the Season Pass. Expand your experience, with 3 other-worldly adventures. Includes Far Cry®3.",
+                "fullDescription": [
+                    {
+                        "heading": "GOLD EDITION CONTENT",
+                        "content": "The Gold Edition includes the game, the Digital Deluxe Pack & the Season Pass. Expand your experience, with 3 other-worldly adventures. Includes Far Cry®3."
+                    },
+                    {
+                        "heading": "FIGHT AGAINST A FANATICAL CULT",
+                        "content": "Welcome to Hope County, Montana, home to a fanatical doomsday cult known as the Project at Eden's Gate that has taken over the region."
+                    },
+                    {
+                        "heading": "SPARK THE FIRES OF RESISTANCE",
+                        "content": "Fight against the cult's leader Joseph Seed and his siblings, the Heralds, to spark the fires of resistance that will liberate the besieged community."
+                    }
+                ],
+                "ageRating": {
+                    "rating": 18,
+                    "reasons": ["Bad Language", "In-Game Purchases", "Violence"]
+                },
+                "features": [
+                    "Single Player",
+                    "Multiplayer"
+                ],
+                "systemRequirements": {
+                    "minimum": {
+                        "os": "Windows 10 (64-bit only)",
+                        "cpu": "Intel Core i5-2400 @ 3.1 GHz or AMD FX-6300 @ 3.5 GHz",
+                        "gpu": "NVIDIA GeForce GTX 670 or AMD R9 270 (2GB VRAM)",
+                        "ram": "8GB",
+                        "vram": "2GB",
+                        "storage": "40GB"
+                    },
+                    "recommended": {
+                        "os": "Windows 10 (64-bit only)",
+                        "cpu": "Intel Core i7-4770 @ 3.4 GHz or AMD Ryzen 5 1600 @ 3.2 GHz",
+                        "gpu": "NVIDIA GeForce GTX 970 or AMD R9 290X (4GB VRAM)",
+                        "ram": "8GB",
+                        "vram": "4GB",
+                        "storage": "40GB"
+                    }
+                },
+                "multiplayer": true,
+                "region": "Global",
+                "availability": true
+            },
+            {
+                "id": "56c4947a88a7e300458b45e8",
+                "title": "Far Cry Primal",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwde86dc63/Far Cry/FCP/FCP_Logo_No-Margins.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw1c437c7e/images/large/56c4947a88a7e300458b45e8.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwc7816773/images/pdpbanner/56c4947a88a7e300458b45e8.jpg?sw=1920&sfrm=jpg",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwdc172899/images/large/56c4947a88a7e300458b45e8-4.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwefb55832/images/large/56c4947a88a7e300458b45e8-2.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw6b995c83/images/large/56c4947a88a7e300458b45e8-3.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw18998c8d/images/large/56c4947a88a7e300458b45e8-1.jpg?sw=500&sh=270&sm=fit"
+                ],
+                "descriptionImg": [
+                   
+                ],
+                "videos": [],
+                "price": 49.99,
+                "discount": 0,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 0,
+                "releaseDate": "2016-03-01",
+                "publisher": "UBISOFT",
+                "developer": "Ubisoft Montreal",
+                "genre": ["Shooter", "Action/Adventure"],
+                "platforms": ["PC"],
+                "languages": [
+                    {
+                        "language": "English",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "French",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "German",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Italian",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Spanish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Portuguese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Russian",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Japanese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Chinese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Korean",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    }
+                ],
+                "brand": "Far Cry",
+                "productEdition": "Standard Edition",
+                "shortDescription": "Welcome to the Stone Age, a time of extreme danger and limitless adventure, when giant mammoths and sabretooth tigers ruled the Earth, and humanity is at the bottom of the food chain.",
+                "fullDescription": [
+                   
+                ],
+                "ageRating": {
+                    "rating": 18,
+                    "reasons": ["In-Game Purchases", "Violence"]
+                },
+                "features": [
+                    "Single Player"
+                ],
+                "systemRequirements": {
+                    "minimum": {
+                        "os": "Windows 10",
+                        "cpu": "Intel Core i3-550 | AMD Phenom II X4 955",
+                        "gpu": "NVIDIA GeForce GTX 460 (1GB VRAM) | AMD Radeon HD 5770 (1GB VRAM)",
+                        "ram": "4GB",
+                        "vram": "1GB",
+                        "storage": "20GB"
+                    },
+                    "recommended": {
+                        "os": "Windows 10",
+                        "cpu": "Intel Core i7-2600K | AMD FX-8350",
+                        "gpu": "NVIDIA GeForce GTX 780 | AMD Radeon R9 280X",
+                        "ram": "8GB",
+                        "vram": "2GB",
+                        "storage": "20GB"
+                    }
+                },
+                "multiplayer": false,
+                "region": "Global",
+                "availability": true
+            },
+            {
+                "id": "56c4947a88a7e300458b45e2",
+                "title": "Far Cry 4",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw11c7655c/Far Cry/FC4/FC4_Logo_No-Margins.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw50af203c/images/large/56c4947a88a7e300458b45e2.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw6976382b/images/large/56c4947a88a7e300458b45e2-3.jpg?sw=1920&sfrm=jpg",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw6976382b/images/large/56c4947a88a7e300458b45e2-3.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw870b0c56/images/large/56c4947a88a7e300458b45e2-5.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw4a658f87/images/large/56c4947a88a7e300458b45e2-6.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw030218ad/images/large/56c4947a88a7e300458b45e2-7.jpg?sw=500&sh=270&sm=fit"
+                ],
+                "descriptionImg": [
+                ],
+                "videos": [],
+                "price": 29.99,
+                "discount": 0,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 0,
+                "releaseDate": "2014-11-18",
+                "publisher": "UBISOFT",
+                "developer": "Ubisoft Montreal",
+                "genre": ["Shooter"],
+                "platforms": ["PC", "PS4", "Xbox"],
+                "languages": [
+                    {
+                        "language": "English",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "French",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "German",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Italian",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Spanish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Japanese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Polish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Russian",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    }
+                ],
+                "brand": "Far Cry",
+                "productEdition": "Standard Edition",
+                "shortDescription": "Hidden in the towering Himalayas lies Kyrat, a country steeped in tradition and violence. You are Ajay Ghale. Traveling to Kyrat to fulfill your mother's dying wish, you find yourself caught up in a civil war to overthrow the oppressive regime of dictator Pagan Min.",
+                "fullDescription": [
+                   
+                ],
+                "ageRating": {
+                    "rating": 18,
+                    "reasons": ["Bad Language", "In-Game Purchases", "Violence"]
+                },
+                "features": [
+                    "Single Player",
+                    "Multiplayer"
+                ],
+                "systemRequirements": {
+                    "minimum": {
+                        "os": "Windows 10",
+                        "cpu": "2.6 GHz Intel Core i5-750 or 3.2 GHz AMD Phenom II X4 955",
+                        "gpu": "NVIDIA GeForce GTX 460 or AMD Radeon HD5850",
+                        "ram": "4GB",
+                        "vram": "1GB",
+                        "storage": "30GB"
+                    },
+                    "recommended": {
+                        "os": "Windows 10",
+                        "cpu": "2.6 GHz Intel Core i5-750 or 3.2 GHz AMD Phenom II X4 955",
+                        "gpu": "NVIDIA GeForce GTX 460 or AMD Radeon HD5850",
+                        "ram": "4GB",
+                        "vram": "1GB",
+                        "storage": "30GB"
+                    }
+                },
+                "multiplayer": true,
+                "region": "Global",
+                "availability": true
+            },
+            {
+                "id": "67c1bc71f98b730ad03b5d48",
+                "title": "Tom Clancy's Rainbow Six Siege X",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwd4b38260/R6S X/R6X-logo-eng.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw29c5c351/images/large/67c1bc71f98b730ad03b5d48.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwdaa0b962/images/pdpbanner/67c1bc71f98b730ad03b5d48-bg.jpg?sw=1920&sfrm=jpg",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw9ae6ed36/images/large/67c1bc71f98b730ad03b5d48-m.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw9b8c1554/images/large/67c0ae5b4997ec4c09ed9c34-pcs.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw4924c3b5/images/large/67c0ae5b4997ec4c09ed9c34-2.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw748e7f31/images/large/67c0ae5b4997ec4c09ed9c34-3.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwac4643b2/images/large/67c1bc71f98b730ad03b5d48-4.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwaab9a8f9/images/large/67c0ae5b4997ec4c09ed9c34-5.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwd5649181/images/large/67c0ae5b4997ec4c09ed9c34-6.jpg?sw=500&sh=270&sm=fit"
+                ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwddfcce95/R6S X/V2_r6x-doublepush1.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw2120d77b/R6S X/V2_r6x-doublepush2.jpg"
+                ],
+                "videos": [
+                ],
+                "price": 79.99,
+                "discount": 0,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 0,
+                "releaseDate": "2025-06-10",
+                "publisher": "UBISOFT",
+                "developer": "Ubisoft Montreal",
+                "genre": ["Multiplayer", "Co-op", "Shooter"],
+                "platforms": ["PC", "PS5", "Xbox", "App Store"],
+                "languages": [
+                    {
+                        "language": "English",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "French",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "German",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Italian",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Spanish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Japanese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Chinese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Thai",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    }
+                ],
+                "brand": "Rainbow Six",
+                "productEdition": "Elite Edition",
+                "shortDescription": "Tom Clancy's Rainbow Six Siege X is an elite, tactical team-based shooter where superior planning and execution triumph. Siege X marks the biggest evolution in its history, and deepens the game's tactical core.",
+                "fullDescription": [
+                    {
+                        "heading": "TACTICAL EVOLUTION",
+                        "content": "Tom Clancy's Rainbow Six Siege X is an elite, tactical team-based shooter where superior planning and execution triumph. Siege X marks the biggest evolution in its history."
+                    },
+                    {
+                        "heading": "ENHANCED TACTICAL CORE",
+                        "content": "Experience the deepest tactical gameplay with enhanced mechanics that reward strategic thinking and precise execution in high-stakes multiplayer combat."
+                    },
+                    {
+                        "heading": "ELITE EDITION CONTENT",
+                        "content": "The Elite Edition includes premium content, exclusive operators, and additional customization options to enhance your tactical experience."
+                    }
+                ],
+                "ageRating": {
+                    "rating": 18,
+                    "reasons": ["Bad Language", "Violence", "In-Game Purchases (includes Paid Random Items)"]
+                },
+                "features": [
+                    "Multiplayer",
+                    "Co-op"
+                ],
+                "systemRequirements": {
+                    "minimum": {
+                        "os": "Windows 10/11, DirectX 12",
+                        "cpu": "AMD Ryzen3 3100, Intel i3 8100",
+                        "gpu": "NVIDIA GTX 1650 4GB, AMD RX 5500XT 4GB, INTEL ARC A380 6GB",
+                        "ram": "8GB",
+                        "vram": "4GB",
+                        "storage": "65GB SSD"
+                    },
+                    "recommended": {
+                        "os": "Windows 11, DirectX 12",
+                        "cpu": "AMD Ryzen5 3600, Intel i5-10400",
+                        "gpu": "NVIDIA RTX 2060 6GB, AMD RX 6600 8GB, INTEL ARC A750 8GB",
+                        "ram": "16GB",
+                        "vram": "6GB",
+                        "storage": "65GB SSD"
+                    }
+                },
+                "multiplayer": true,
+                "region": "Global",
+                "availability": true
+            },
+            {
+                "id": "67c1bc71f98b730ad03b5d48",
+                "title": "Tom Clancy's Rainbow Six Siege X",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwd4b38260/R6S X/R6X-logo-eng.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwb0aaa30a/images/large/67c1bc2ff98b730ad03b5d47.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwdaa0b962/images/pdpbanner/67c1bc71f98b730ad03b5d48-bg.jpg?sw=1920&sfrm=jpg",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw9bedcde6/images/large/67c1bc2ff98b730ad03b5d47-m.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw9b8c1554/images/large/67c0ae5b4997ec4c09ed9c34-pcs.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw4924c3b5/images/large/67c0ae5b4997ec4c09ed9c34-2.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw748e7f31/images/large/67c0ae5b4997ec4c09ed9c34-3.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwac4643b2/images/large/67c1bc71f98b730ad03b5d48-4.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwaab9a8f9/images/large/67c0ae5b4997ec4c09ed9c34-5.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwd5649181/images/large/67c0ae5b4997ec4c09ed9c34-6.jpg?sw=500&sh=270&sm=fit"
+                ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwddfcce95/R6S X/V2_r6x-doublepush1.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw2120d77b/R6S X/V2_r6x-doublepush2.jpg"
+                ],
+                "videos": [
+                ],
+                "price": 99.99,
+                "discount": 0,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 0,
+                "releaseDate": "2025-06-10",
+                "publisher": "UBISOFT",
+                "developer": "Ubisoft Montreal",
+                "genre": ["Multiplayer", "Co-op", "Shooter"],
+                "platforms": ["PC", "PS5", "Xbox", "App Store"],
+                "languages": [
+                    {
+                        "language": "English",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "French",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "German",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Italian",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Spanish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Japanese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Chinese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Thai",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    }
+                ],
+                "brand": "Rainbow Six",
+                "productEdition": "Ultimate Edition",
+                "shortDescription": "Tom Clancy's Rainbow Six Siege X is an elite, tactical team-based shooter where superior planning and execution triumph. Siege X marks the biggest evolution in its history, and deepens the game's tactical core.",
+                "fullDescription": [
+                    {
+                        "heading": "TACTICAL EVOLUTION",
+                        "content": "Tom Clancy's Rainbow Six Siege X is an elite, tactical team-based shooter where superior planning and execution triumph. Siege X marks the biggest evolution in its history."
+                    },
+                    {
+                        "heading": "ENHANCED TACTICAL CORE",
+                        "content": "Experience the deepest tactical gameplay with enhanced mechanics that reward strategic thinking and precise execution in high-stakes multiplayer combat."
+                    },
+                    {
+                        "heading": "ELITE EDITION CONTENT",
+                        "content": "The Elite Edition includes premium content, exclusive operators, and additional customization options to enhance your tactical experience."
+                    }
+                ],
+                "ageRating": {
+                    "rating": 18,
+                    "reasons": ["Bad Language", "Violence", "In-Game Purchases (includes Paid Random Items)"]
+                },
+                "features": [
+                    "Multiplayer",
+                    "Co-op"
+                ],
+                "systemRequirements": {
+                    "minimum": {
+                        "os": "Windows 10/11, DirectX 12",
+                        "cpu": "AMD Ryzen3 3100, Intel i3 8100",
+                        "gpu": "NVIDIA GTX 1650 4GB, AMD RX 5500XT 4GB, INTEL ARC A380 6GB",
+                        "ram": "8GB",
+                        "vram": "4GB",
+                        "storage": "65GB SSD"
+                    },
+                    "recommended": {
+                        "os": "Windows 11, DirectX 12",
+                        "cpu": "AMD Ryzen5 3600, Intel i5-10400",
+                        "gpu": "NVIDIA RTX 2060 6GB, AMD RX 6600 8GB, INTEL ARC A750 8GB",
+                        "ram": "16GB",
+                        "vram": "6GB",
+                        "storage": "65GB SSD"
+                    }
+                },
+                "multiplayer": true,
+                "region": "Global",
+                "availability": true
+            },
+            {
+                "id": "660e5a03fbff4e2940488bcd",
+                "title": "Assassin's Creed Shadows",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw44ffb996/ACSH/ACR_Logo.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw10cd2e73/images/large/660e5a03fbff4e2940488bcd.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw35100cc0/images/pdpbanner/660e5a03fbff4e2940488bcd-bg.jpg?sw=1920&sfrm=jpg",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw0f6f4477/images/large/673b49019baa3f5f7f025a29-pc.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw4b512a95/images/large/660e5a03fbff4e2940488bcd-1.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw0d3ef8a0/images/large/660e5a03fbff4e2940488bcd-2.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwf8f7cfcf/images/large/660e5a03fbff4e2940488bcd-3.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw47bf8ed2/images/large/660e5a03fbff4e2940488bcd-4.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw2b946b7b/images/large/660e5a03fbff4e2940488bcd-5.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw3aade384/images/large/660e5a03fbff4e2940488bcd-7.jpg?sw=500&sh=270&sm=fit"
+                ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwade60206/ACSH/Immersive_01_DESK-2.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw13c9f111/ACSH/ACSH_Immersive_02_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw8b95b90f/ACSH/ACSH_Immersive_03_DESK.jpg"
+                ],
+                "videos": [
+                    "https://www.youtube.com/watch?v=VKXB0WB6jJ8",
+                    "",
+                    ""
+                ],
+                "price": 69.99,
+                "discount": 0,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 0,
+                "releaseDate": "2025-03-20",
+                "publisher": "UBISOFT",
+                "developer": "Ubisoft Quebec",
+                "genre": ["Action/Adventure", "Open World"],
+                "platforms": ["PC", "PS5", "Xbox", "App Store"],
+                "languages": [
+                    {
+                        "language": "English",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "French",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "German",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Italian",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Spanish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Portuguese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Japanese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Polish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Chinese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Russian",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Arabic",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Korean",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    }
+                ],
+                "brand": "Assassin's Creed",
+                "productEdition": "Standard Edition",
+                "shortDescription": "Experience an epic action-adventure story set in feudal Japan! Become a lethal shinobi assassin and powerful legendary samurai as you explore a beautiful open world in a time of chaos.",
+                "fullDescription": [
+                    {
+                        "heading": "EXPLORE FEUDAL JAPAN",
+                        "content": "Discover the captivating open world of Feudal Japan, from spectacular castle towns and bustling ports to peaceful shrines and pastoral landscapes. Adventure through unpredictable weather, changing seasons, and reactive environments."
+                    },
+                    {
+                        "heading": "BECOME A SHINOBI ASSASSIN",
+                        "content": "As the quick-witted and agile Naoe, use noise, light, and shadows to evade detection as enemies respond to their changing surroundings. Distract guards using kunai, shuriken, and smoke bombs, infiltrate enemy bases with your grappling hook and parkour skills, and assassinate your targets with the hidden blade."
+                    },
+                    {
+                        "heading": "BECOME A LEGENDARY SAMURAI",
+                        "content": "As the legendary and charismatic samurai Yasuke, strike your foes with brutal precision and power. Use his combat-oriented skills to attack, block, parry, and defeat your enemies. Master the vast arsenal of weapons at your disposal – featuring katana, kanabo, bows, naginata, and more – to free Japan from its oppressors."
+                    }
+                ],
+                "ageRating": {
+                    "rating": 18,
+                    "reasons": ["Bad Language", "Violence"]
+                },
+                "features": [
+                    "Single Player"
+                ],
+                "systemRequirements": {
+                    "minimum": {
+                        "os": "Windows 10/11 with DirectX 12",
+                        "cpu": "Intel Core i7-8700K, AMD Ryzen 5 3600",
+                        "gpu": "Nvidia GeForce GTX 1070 8GB, AMD Radeon RX 5700 8GB, Intel Arc A580 8GB",
+                        "ram": "16GB",
+                        "vram": "8GB",
+                        "storage": "106GB SSD"
+                    },
+                    "recommended": {
+                        "os": "Windows 10/11 with DirectX 12",
+                        "cpu": "Intel Core i5-11600K, AMD Ryzen 5 5600X",
+                        "gpu": "Nvidia GeForce RTX 3060Ti 8GB, AMD Radeon RX 6700 XT 12GB, Intel Arc B580 12GB",
+                        "ram": "16GB",
+                        "vram": "8GB",
+                        "storage": "106GB SSD"
+                    }
+                },
+                "multiplayer": false,
+                "region": "Global",
+                "availability": true
+            },
+            {
+                "id": "616edb950d253c42d49fa64e",
+                "title": "Assassin's Creed Valhalla",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwb0cb3ae5/ACV/ACV_Logo.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw35e923ad/images/large/616edb950d253c42d49fa64e.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Library-Sites-shared-library-web/default/dw52acf822/ACV/ACV_Banner_STD.jpg?sw=1920&sfrm=jpg",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw365020a5/images/4_ACV_Visceral_Combat_Male.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw365020a5/images/4_ACV_Visceral_Combat_Male.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw22b8d007/images/5_ACV_Expansion1_17_AlphaBoar.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dweb98b92f/images/5_ACV_101_UrbanStealth_EMEA.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwfd528c50/images/6_ACV_17_Drinking_Contest.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw287eda82/images/8_ACV_Expansion1_26_Lynx.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwc536bd2a/images/9_ACK_DLC2_09_Etretat.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw822d36f7/images/10_ACK_DLC2_10_EbelsBoss.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwdd963be8/images/11_ACK_DLC3_09_MythicalExploration.jpg?sw=500&sh=270&sm=fit"
+                    
+                ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw1e08ed0b/ACV/ACV_Immersive_01.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw889377df/ACV/ACV_Immersive_02.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwa1b64a13/ACV/ACV_Immersive_03.jpg"
+                ],
+                "videos": [
+                    
+                ],
+                "price": 139.99,
+                "discount": 0,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 0,
+                "releaseDate": "2022-03-10",
+                "publisher": "UBISOFT",
+                "developer": "Ubisoft Sofia / Ubisoft Montpellier / Ubisoft Philippines / Ubisoft Kyiv / Sperasoft",
+                "genre": ["Action/Adventure"],
+                "platforms": ["PC", "PS4", "PS5", "Xbox"],
+                "languages": [
+                    {
+                        "language": "English",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "French",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "German",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Italian",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Spanish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Portuguese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Russian",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Japanese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Chinese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Polish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    }
+                ],
+                "brand": "Assassin's Creed",
+                "productEdition": "Complete Edition",
+                "shortDescription": "Includes the base game, the Season Pass, the ultimate cosmetics pack and Assassin's Creed Valhalla: Dawn of Ragnarök.",
+                "fullDescription": [
+                    {
+                        "heading": "A DARK AGE OPEN WORLD",
+                        "content": "Sail from the harsh and mysterious shores of Norway to the beautiful but forbidding kingdoms of England and beyond. Immerse yourself in the Viking way of life through fishing, hunting, drinking games, and more."
+                    },
+                    {
+                        "heading": "LEAD EPIC RAIDS",
+                        "content": "Launch massive assaults against Saxon troops and fortresses throughout England. Lead your clan in surprise attacks from your longship and pillage enemy territories to bring riches and resources back to your people."
+                    },
+                    {
+                        "heading": "VISCERAL COMBAT SYSTEM",
+                        "content": "Dual-wield powerful weapons such as axes, swords, and even shields to relive the ruthless fighting style of the Viking warriors. Challenge yourself with the most varied collection of deadly enemies ever found in an Assassin’s Creed game."
+                    }
+                ],
+                "ageRating": {
+                    "rating": 18,
+                    "reasons": ["Bad Language", "In-Game Purchases", "Violence"]
+                },
+                "features": [
+                    "Single Player"
+                ],
+                "systemRequirements": {
+                    "minimum": {
+                        "os": "Windows 10 (64-bit)",
+                        "cpu": "AMD Ryzen 3 1200 3.1 GHz / Intel Core i5-4460 3.2 GHz",
+                        "gpu": "AMD R9 380 / NVIDIA GeForce GTX 960",
+                        "ram": "8GB",
+                        "vram": "4GB",
+                        "storage": "160GB HDD (SSD Recommended)"
+                    },
+                    "recommended": {
+                        "os": "Windows 10 (64-bit)",
+                        "cpu": "AMD Ryzen 5 1600 3.2 GHz / Intel Core i7-4790 3.6 GHz",
+                        "gpu": "AMD RX 570 8GB / GeForce GTX 1060 6GB",
+                        "ram": "8GB",
+                        "vram": "8GB",
+                        "storage": "160GB HDD (SSD Recommended)"
+                    }
+                },
+                "multiplayer": false,
+                "region": "Global",
+                "availability": true
+            },
+            {
+                "id": "5afda8aa6b54a4271407a875",
+                "title": "Assassin's Creed Odyssey",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwff77d3ca/ACOD/ACOD_logo.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw889b9197/images/large/5afda8aa6b54a4271407a875.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Library-Sites-shared-library-web/default/dwa8edcf60/ACOD/ACOD_Banner_STD.jpg?sw=1920&sfrm=jpg",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwc4e7ae21/images/large/5afda8aa6b54a4271407a875-4.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwf323ab8f/images/large/5afda8aa6b54a4271407a875-7.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwad470929/images/large/5afda8aa6b54a4271407a875-13.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwdfe23121/images/large/5afda8aa6b54a4271407a875-14.jpg?sw=500&sh=270&sm=fit"
+                ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw30907374/ACOD/ACOD_Immersive_01_DESK_UPDATE01.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwe2d8e9b9/ACOD/ACOD_Immersive_02_DESK_UPDATE01.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw10cb8c95/ACOD/ACOD_Immersive_03_DESK_UPDATE01.jpg"
+
+                ],
+                "videos": [
+                    
+                ],
+                "price": 114.99,
+                "discount": 0,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 0,
+                "releaseDate": "2018-10-05",
+                "publisher": "UBISOFT",
+                "developer": "Ubisoft Quebec",
+                "genre": ["Action/Adventure"],
+                "platforms": ["PC", "PS4", "PS5", "Xbox"],
+                "languages": [
+                    {
+                        "language": "English",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "French",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "German",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Italian",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Spanish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Portuguese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Russian",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Japanese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Polish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Chinese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Arabic",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Czech",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Dutch",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Korean",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    }
+                ],
+                "brand": "Assassin's Creed",
+                "productEdition": "Ultimate Edition",
+                "shortDescription": "Write your own legendary Odyssey and live epic adventures in a world where every choice matters. Sentenced to death by your family, embark on an epic journey from outcast mercenary to legendary Greek hero.",
+                "fullDescription": [
+                    {
+                        "heading": "DELVE INTO ANCIENT GREECE",
+                        "content": " From the heights of snowy mountain peaks to the depths of the Aegean Sea, explore an entire country full of untamed environments and cities, at the peak of Greece’s Golden Age. Unexpected encounters will breathe life into your story as you meet colourful characters, battle vicious mercenaries, and more."
+                    },
+                    {
+                        "heading": "CHOOSE YOUR OWN PATH",
+                        "content": "Your decisions shape the world around you with over 30 hours of choice dialogue and multiple game endings. Experience a living, dynamic world that constantly evolves and reacts to your every decision. "
+                    },
+                    {
+                        "heading": "SAIL ACROSS THE AEGEAN SEA ",
+                        "content": "Find uncharted locations, uncover hidden treasures or cleave your way through entire fleets in naval battles. Customize the look of your ship, upgrade weaponry to suit your strengths, and recruit crewmembers with unique perks, tailoring naval combat to your style."
+                    }
+                ],
+                "ageRating": {
+                    "rating": 18,
+                    "reasons": ["Bad Language", "In-Game Purchases", "Violence"]
+                },
+                "features": [
+                    "Single Player"
+                ],
+                "systemRequirements": {
+                    "minimum": {
+                        "os": "Windows 7 SP1, Windows 8.1, Windows 10 (64-bit)",
+                        "cpu": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 1200, Intel Core i5 2400 @ 3.1 GHz",
+                        "gpu": "AMD Radeon R9 285 or NVIDIA GeForce GTX 660 (2GB VRAM)",
+                        "ram": "8GB",
+                        "vram": "2GB",
+                        "storage": "46GB"
+                    },
+                    "recommended": {
+                        "os": "Windows 7 SP1, Windows 8.1, Windows 10 (64-bit)",
+                        "cpu": "AMD FX-8350 @ 4.0 GHz, Ryzen 5 1400, Intel Core i7-3770 @ 3.5 GHz",
+                        "gpu": "AMD Radeon R9 290 or NVIDIA GeForce GTX 970 (4GB VRAM)",
+                        "ram": "8GB",
+                        "vram": "4GB",
+                        "storage": "46GB"
+                    }
+                },
+                "multiplayer": false,
+                "region": "Global",
+                "availability": true
+            },
+            {
+                "id": "6077f2aa5cdf9a268c10d3dd",
+                "title": "Brawlhalla",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw850c633a/Brawlhalla/Logo.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw35e923ad/images/large/6077f2aa5cdf9a268c10d3dd.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwd64ccfe7/images/pdpbanner/6077f2aa5cdf9a268c10d3dd-bg.jpg?sw=1920&sfrm=jpg",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwc3f22cf1/images/large/6077f2aa5cdf9a268c10d3ddMT4-1.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwd20f3965/images/large/6077f2aa5cdf9a268c10d3ddMT4-2.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw488ecbce/images/large/6077f2aa5cdf9a268c10d3dd-1.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw34b8e80d/images/large/6077f2aa5cdf9a268c10d3dd-2.jpg?sw=500&sh=270&sm=fit"
+                    
+                ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw99169730/Brawlhalla/Brawl_Module1.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw838a8f4e/Brawlhalla/Brawl_Module2.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw3f1612a2/Brawlhalla/Brawl_Module3.jpg"
+                ],
+                "videos": [
+                    
+                ],
+                "price": 0,
+                "discount": 0,
+                "isFree": true,
+                "saleCount": 0,
+                "viewCount": 0,
+                "releaseDate": "2020-08-06",
+                "publisher": "UBISOFT",
+                "developer": "Blue Mammoth Games",
+                "genre": ["Fighting"],
+                "platforms": ["PC"],
+                "languages": [
+                    {
+                        "language": "English",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "French",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "German",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Italian",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Spanish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Polish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Portuguese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Chinese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Japanese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Dutch",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Korean",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Turkish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    }
+                ],
+                "brand": "Brawlhalla",
+                "productEdition": "Free to Play",
+                "shortDescription": "An epic platform fighter for up to 8 players online or locally. Try casual free-for-alls, ranked matches, or invite friends to a private room. And it's free!",
+                "fullDescription": [
+                    {
+                        "heading": "BRAWL EVERYONE EVERYWHERE FOR FREE",
+                        "content": "Fight in 1v1s, hectic team battles, 8 player free-for-alls, and custom matches with your friends. With over 20 Game Modes and a seamless cross-platform experience, everyone can play together!"
+                    },
+                    {
+                        "heading": "FIGHT FOR GLORY",
+                        "content": "Battle it out in Ranked Game Modes to earn exclusive Ranked Rewards and climb the leaderboards. Also, complete missions in each season's Battle Pass to unlock more exclusive cosmetics to show everyone who the real Legend is."
+                    },
+                    {
+                        "heading": "BECOME THE GREATEST LEGEND",
+                        "content": "Play with an ever-expanding roster of 50+ Legends, each with unique signature attacks, Weapon combinations, and stats. Brawlhalla also constantly expands its arena with Crossovers, bringing fan favorite characters from IPs like Star Wars, SpongeBob SquarePants, Street Fighter, and more."
+                    }
+                ],
+                "ageRating": {
+                    "rating": 7,
+                    "reasons": ["Violence"]
+                },
+                "features": [
+                    "Multiplayer"
+                ],
+                "systemRequirements": {
+                    "minimum": {
+                        "os": "Windows 7",
+                        "cpu": "Intel Core 2 Duo 2.4GHz",
+                        "gpu": "DirectX 9 compatible graphics card",
+                        "ram": "2GB",
+                        "vram": "1GB",
+                        "storage": "2GB"
+                    },
+                    "recommended": {
+                        "os": "Windows 10",
+                        "cpu": "Intel Core i3 3.0GHz",
+                        "gpu": "DirectX 11 compatible graphics card",
+                        "ram": "4GB",
+                        "vram": "2GB",
+                        "storage": "2GB"
+                    }
+                },
+                "multiplayer": true,
+                "region": "Global",
+                "availability": true
+            }
+            ],
+
+            "DLCs": [
+                {
+                    "id": "4e10b2e4-d3ac-4af9-9944-641cbe0f4e89",
+                    "gameId": "56c4947a88a7e300458b45e2", 
+                    "title": "Far Cry 4 Season Pass",
+                    "typeDlc": "Season pass", 
+                    "type": "DLC", 
+                    "logo": "", 
+                    "bannerImg": "", 
+                    "cardImg": "", 
+                    "screenshots": [],
+                    "videos": [],
+                    "price": null, 
+                    "discount": 0,
+                    "isFree": false,
+                    "saleCount": 0,
+                    "viewCount": 0,
+                    "releaseDate": "2014-11-18",
+                    "description": "Continue your Far Cry 4 adventure with the Far Cry 4 Season Pass. Unlock all upcoming Far Cry 4 add-on content, including the Escape from Durgesh Prison campaign, the Valley of the Yetis campaign, the five pre-order missions plus weapons, and Overrun – an exclusive PvP mode. Includes an exclusive single player mission only available with the Season Pass.",
+                    "genre": ["Shooter"],
+                    "platforms": ["PC", "PS4", "PS3", "Xbox One", "Xbox 360"],
+                    "ageRating": {
+                        "rating":  18,
+                        "reasons": ["Bad Language", "In-Game Purchases", "Violence"]
+                    },
+                    "requiresBaseGame": true,
+                    "baseGameTitle": "Far Cry 4",
+                    "baseGameUrl": "https://store.ubisoft.com/ie/far-cry-4/56c4947a88a7e300458b45e2.html",
+                   
+                    "brand": "Far Cry",
+                    "features": [
+                        "Single Player",
+                        "Multiplayer", 
+                        "Exclusive PvP Mode",
+                        "Additional Campaigns",
+                        "Exclusive Mission"
+                    ],
+                    
+                    "dlcCategory": "Expansion", 
+                    
+                    "languages": [], 
+                    "region": "Global",
+                    "availability": true,
+                    
+                    
+                    
+                    
+                    "tags": ["Season Pass", "Campaign", "PvP", "Exclusive Content"]
+                },
+                {
+                    "id": "8238e60c-efde-4ac5-9f9e-c3158e428d84",
+                    "gameId": "6077f2aa5cdf9a268c10d3dd", 
+                    "title": "Brawlhalla Battle Pass Classic 6 - Gold Pass",
+                    "typeDlc": "Battle Pass", 
+                    "type": "DLC", 
+                    "logo": "", 
+                    "bannerImg": "https://store.ubisoft.com/ie/brawlhalla-summer-esports-2025-pack/6818abd48ac12e7a99688232.html?lang=en-ZW", 
+                    "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa2ed6446/images/large/68187d658ac12e7a99688230.jpg?sw=300&sh=395&sm=fit", 
+                    "screenshots": [""],
+                    "videos": [],
+                    "price": 10.99, 
+                    "discount": 0,
+                    "isFree": false,
+                    "saleCount": 0,
+                    "viewCount": 0,
+                    "releaseDate": "2024-12-01",
+                    "description": "Upgrade your Brawlhalla experience with the Battle Pass Classic 6 - Gold Pass! Unlock exclusive skins, emotes, sidekicks, and other premium rewards as you progress through the battle pass tiers. Get instant access to premium rewards and earn additional bonuses throughout the season.",
+                    "genre": ["Fighting"],
+                    "platforms": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X|S", "Nintendo Switch", "Mobile"],
+                    "ageRating": {
+                        "rating": 10,
+                        "reasons": ["Mild Fantasy Violence", "In-Game Purchases"]
+                    },
+                    "requiresBaseGame": true,
+                    "baseGameTitle": "Brawlhalla",
+                    "baseGameUrl": "https://store.ubisoft.com/ie/brawlhalla/5c6cc3c67e8a4f0001f5d8a3.html",
+                   
+                    "brand": "Brawlhalla",
+                    "features": [
+                        "Premium Battle Pass",
+                        "Exclusive Skins",
+                        "Emotes & Taunts", 
+                        "Sidekicks",
+                        "XP Boosts",
+                        "Premium Rewards",
+                        "Seasonal Content"
+                    ],
+                    
+                    "dlcCategory": "Battle Pass", 
+                    
+                    "languages": [], 
+                    "region": "Global",
+                    "availability": true,
+                    
+                    "tags": ["Battle Pass", "Premium", "Seasonal", "Cosmetics", "Fighting Game", "Season 6"]
+                },
+                {
+                    "id": "f4a7c9e2-8b5d-4321-a890-1c7f9e4b8d65",
+                    "gameId": "6077f2aa5cdf9a268c10d3dd", 
+                    "title": "Brawlhalla Summer Esports 2025 Pack",
+                    "typeDlc": "Content Pack", 
+                    "type": "DLC", 
+                    "logo": "", 
+                    "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw267ce658/images/pdpbanner/6818abd48ac12e7a99688232-bg.jpg?sw=1920&sfrm=jpg", 
+                    "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw9894e1e9/images/large/6818abd48ac12e7a99688232.jpg?sw=300&sh=395&sm=fit", 
+                    "screenshots": [
+                        "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwf46a2e95/images/large/6818abd48ac12e7a99688232-1.jpg?sw=500&sh=270&sm=fit",
+                        "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwf46a2e95/images/large/6818abd48ac12e7a99688232-2.jpg?sw=500&sh=270&sm=fit"
+                    ],
+                    "videos": [],
+                    "price": 8.99, 
+                    "discount": 0,
+                    "isFree": false,
+                    "saleCount": 0,
+                    "viewCount": 0,
+                    "releaseDate": "2025-06-01",
+                    "description": "The Summer Esports 2025 Pack is here! This limited-time pack contains 300 Mammoth Coins, the Summer Esports 2025 Avatar, and the exclusive 'Ship Wheel' Axe Weapon Skin. Show off your dedication to Brawlhalla esports!",
+                    "genre": ["Fighting"],
+                    "platforms": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X|S", "Nintendo Switch", "Mobile"],
+                    "ageRating": {
+                        "rating": 10,
+                        "reasons": ["Mild Fantasy Violence", "In-Game Purchases"]
+                    },
+                    "requiresBaseGame": true,
+                    "baseGameTitle": "Brawlhalla",
+                    "baseGameUrl": "https://store.ubisoft.com/ie/brawlhalla/5c6cc3c67e8a4f0001f5d8a3.html",
+                   
+                    "brand": "Brawlhalla",
+                    "features": [
+                        "Esports-themed Skins",
+                        "Victory Poses",
+                        "Tournament Cosmetics", 
+                        "Exclusive Content",
+                        "Summer 2025 Collection",
+                        "Competitive Themed Items"
+                    ],
+                    
+                    "dlcCategory": "Cosmetic Pack", 
+                    
+                    "languages": [], 
+                    "region": "Global",
+                    "availability": true,
+                    
+                    "tags": ["Esports", "Summer", "2025", "Cosmetics", "Tournament", "Competitive", "Skin Pack"]
+                }
+            ],
+            
+            "Sliders":[
+                {
+                    "id": 1,
+                    "title": "Last call for up to 75% Off!",
+                    "category": "",
+                    "btnType": "Shop now",
+                    "image": "https://ubiservices.cdn.ubi.com/748afbe7-1d05-43d8-bf4b-9aff7d389b7a/news/Connect_TopNews_SummerSale25_16x9.jpg?imWidth=1800",
+                    "description": "Summer's almost over! Don't forget to redeem 100 Ubisoft Units for an additional 20% off your cart!"
+                  },
+                  {
+                    "id": 2,
+                    "title": "New Hero Reveal: Virtuosa",
+                    "category": "For Honor",
+                    "btnType": "Read more",
+                    "image": "https://static-news.ubisoft.com/news/content/prod/ForHonor/ForHonor_Virtuosa.jpg?imWidth=1800",
+                    "description": "Their mastery of the rapier is often expressed through three distinct Postures, in addition to their signature Elusive Evasion."
+                  },
+                  {
+                    "id": 3,
+                    "title": "The Division 2 x Payday",
+                    "category": "The Division 2",
+                    "btnType": "Read more",
+                    "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3AfriM4QApkhmxGX6GQQyW/ef62fc3cf791f76d3cfc416faebc31b0/Payday_Event_Pass_Infographic.png.jpg?imWidth=1800",
+                    "description": "Take a look at the new rewards in the Division 2 x Payday event!"
+                  },
+                  {
+                    "id": 4,
+                    "title": "Discover what is coming to AC Shadows this summer",
+                    "category": "Assassin's Creed Shadows",
+                    "btnType": "Read more",
+                    "image": "https://ubiservices.cdn.ubi.com/748afbe7-1d05-43d8-bf4b-9aff7d389b7a/news/ACSH_Claws_of_Awaji_textless_key_art.webp?imWidth=1800",
+                    "description": "From the New Game+ mode coming July 29th, and the Claws of Awaji expansion releasing on September 16th, there will be a lot to enjoy!"
+                  }
+            ]
+
+
+}
