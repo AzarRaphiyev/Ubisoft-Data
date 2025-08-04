@@ -2618,6 +2618,69 @@
                     "image": "https://ubiservices.cdn.ubi.com/748afbe7-1d05-43d8-bf4b-9aff7d389b7a/news/ACSH_Claws_of_Awaji_textless_key_art.webp?imWidth=1800",
                     "description": "From the New Game+ mode coming July 29th, and the Claws of Awaji expansion releasing on September 16th, there will be a lot to enjoy!"
                   }
+            ],
+            "UbisoftUniverse":[
+                {
+                    "id": "9dbb0350-7f6a-40af-997b-c843889b6b17",
+                    "title":"Assasin's creed",
+                    "cardImg":"https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Library-Sites-shared-library-web/default/dwfa0cfe74/images/categ-slider/Store_brandtiles_500x217_x2_AC.jpg?sw=500&sh=270&sm=fit",
+                    "sectionImg":"https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2xigYNmkunpXzF0wLo3xmf/be9da2427ae7e897d7d9be9badc07adb/AC-FranchiseBanner_960x540_1.jpg"
+                },
+                {
+                    "id": "71adc0af-9d01-4a60-9651-72be12a42c62",
+                     "title":"Rainbow Six",
+                    "cardImg":"https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Library-Sites-shared-library-web/default/dwe31fa53e/images/categ-slider/Store_brandtiles_500x217_x2_R6.jpg?sw=500&sh=270&sm=fit",
+                    "sectionImg":"https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3xF5wFU6mfUv1weqYKOfgT/7389f6f1b2c2af7a2eaa3dbb04cbbf85/UBI-R6X_KA-R16_2D-RevisedFinal_Horizontal-960x540.jpg"
+                },
+                {
+                    "id": "e695524c-bbb1-4bf1-a61a-660af9ed48fe",
+                     "title":"The Crew Motorfest",
+                    "cardImg":"https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Library-Sites-shared-library-web/default/dw26f6160e/images/categ-slider/Store_brandtiles_500x217_x2_TheCrew.jpg?sw=500&sh=270&sm=fit",
+                    "sectionImg":"https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1Im3YDFg9Jla4uctCRPS0n/e51fb74d579683896eea4f019f9876d0/tc-franchise.jpg"
+                },
+                {
+                    "id": "58f6a19d-1d9e-45ef-9ddc-a7eadf638908",
+                     "title":"Star Wars Outlast",
+                    "cardImg":"https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Library-Sites-shared-library-web/default/dwb7dac047/images/homepage/slot1/HELIX_categ_push.jpg?sw=500&sh=270&sm=fit",
+                    "sectionImg":""
+                },
+                {
+                    "id": "4bf3c3aa-b09b-4287-a4ef-45b8d654e20b",
+                     "title":"Avatar",
+                    "cardImg":"https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Library-Sites-shared-library-web/default/dw3cd2dd88/images/categ-slider/Store_brandtiles_500x217_x2_Avatar.jpg?sw=500&sh=270&sm=fit",
+                    "sectionImg":""
+                },
+                {
+                    "id": "bbc7c59d-b99c-4cf8-822c-0b09a234b8c2",
+                     "title":"Prince of Persia",
+                    "cardImg":"https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Library-Sites-shared-library-web/default/dw2a9a05ee/images/categ-slider/PoP_Tiles.jpg?sw=500&sh=270&sm=fit",
+                    "sectionImg":""
+                },
+                {
+                    "id": "8120b1f5-ad51-4ad8-a9cc-a2c1c1ab3041",
+                     "title":"Farcry",
+                    "cardImg":"https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Library-Sites-shared-library-web/default/dw1f727bcf/images/categ-slider/Store_brandtiles_500x217_x2_FC.jpg?sw=500&sh=270&sm=fit",
+                    "sectionImg":""
+                },
+                {
+                    "id": "1a1eb575-1734-4d78-a169-354907defc8f",
+                     "title":"Anno",
+                    "cardImg":"https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Library-Sites-shared-library-web/default/dwcec62766/images/categ-slider/Store_brandtiles_500x217_x2_Anno.jpg?sw=500&sh=270&sm=fit",
+                    "sectionImg":""
+                },
+                {
+                    "id": "32ae4d69-1e75-42d0-8f3c-46b90b9892fb",
+                     "title":"Ghost Recon",
+                    "cardImg":"https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Library-Sites-shared-library-web/default/dw23affb56/images/categ-slider/Store_brandtiles_500x217_x2_GR.jpg?sw=500&sh=270&sm=fit",
+                    "sectionImg":""
+                },
+                {
+                    "id": "f2519979-7c6b-45a4-8160-54bb953db516",
+                     "title":"The Dvision",
+                    "cardImg":"https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Library-Sites-shared-library-web/default/dwc3c8cc7d/images/categ-slider/Store_brandtiles_500x217_x2_TCTD.jpg?sw=500&sh=270&sm=fit",
+                    "sectionImg":""
+                }
+                 
             ]
 
 
