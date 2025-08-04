@@ -45,7 +45,7 @@
                     "discount": 0,
                     "isFree": false,
                     "saleCount": 0,
-                    "viewCount": 0,
+                    "viewCount": 9,
                     "releaseDate": "2021-10-07",
                     "publisher": "UBISOFT",
                     "developer": "Ubisoft Toronto / Montreal / Kyiv / Shanghai / Berlin",
@@ -310,7 +310,7 @@
                 "discount": 0,
                 "isFree": false,
                 "saleCount": 0,
-                "viewCount": 0,
+                "viewCount": 5,
                 "releaseDate": "2018-03-27",
                 "publisher": "UBISOFT",
                 "developer": "Ubisoft Montreal",
@@ -1096,7 +1096,7 @@
                 "discount": 0,
                 "isFree": false,
                 "saleCount": 0,
-                "viewCount": 0,
+                "viewCount": 13,
                 "releaseDate": "2025-03-20",
                 "publisher": "UBISOFT",
                 "developer": "Ubisoft Quebec",
@@ -1399,7 +1399,7 @@
                 "discount": 0,
                 "isFree": false,
                 "saleCount": 0,
-                "viewCount": 0,
+                "viewCount": 3,
                 "releaseDate": "2018-10-05",
                 "publisher": "UBISOFT",
                 "developer": "Ubisoft Quebec",
@@ -1689,7 +1689,793 @@
                 "multiplayer": true,
                 "region": "Global",
                 "availability": true
+            },
+            {
+                "id": "645ba723a9ce0448bffa4c13",
+                "title": "Star Wars Outlaws",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw0c588bcd/HELIX/GamePageLogo.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa598c10f/images/large/645ba713a9ce0448bffa4c12.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw23f30fd8/images/pdpbanner/645ba713a9ce0448bffa4c12-bg.jpg?sw=1920&sfrm=jpg",
+                "sectionImg": "https://static-news.ubisoft.com/news/content/prod/StarWars/FTP_banner_SW_2024.jpg?imWidth=1800",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw799df81d/images/large/645ba713a9ce0448bffa4c12-1.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw23ad9572/images/large/645ba713a9ce0448bffa4c12-2.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwc7fcd7ce/images/large/645ba713a9ce0448bffa4c12-7.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa32d6ae8/images/large/645ba713a9ce0448bffa4c12-4.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw219adbb8/images/large/645ba713a9ce0448bffa4c12-5.jpg?sw=500&sh=270&sm=fit"
+                ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw99169730/StarWarsOutlaws/Outlaws_Module1.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw838a8f4e/StarWarsOutlaws/Outlaws_Module2.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw3f1612a2/StarWarsOutlaws/Outlaws_Module3.jpg"
+                ],
+                "videos": [
+                    "https://www.youtube.com/watch?v=QP_wXv2ErgI",
+                    "https://www.youtube.com/watch?v=cMqqfkLhuZk"
+                ],
+                "price": 69.99,
+                "discount": 0,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 0,
+                "releaseDate": "2024-08-30",
+                "publisher": "UBISOFT",
+                "developer": "Massive Entertainment",
+                "genre": ["Action-Adventure", "Open World", "Third-Person Shooter"],
+                "platforms": ["PC", "PlayStation 5", "Xbox Series X|S"],
+                "languages": [
+                    {
+                        "language": "English",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "French",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "German",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Italian",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Spanish",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Polish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Portuguese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Chinese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Japanese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Korean",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    }
+                ],
+                "brand": "Star Wars",
+                "productEdition": "Standard Edition",
+                "shortDescription": "Experience the first-ever open world Star Wars game, set between the events of The Empire Strikes Back and Return of the Jedi. Risk it all as scoundrel Kay Vess, seeking freedom and the means to start a new life.",
+                "fullDescription": [
+                    {
+                        "heading": "DISCOVER A GALAXY OF OPPORTUNITY",
+                        "content": "Explore distinct locations with bustling cities and cantinas. Race across sprawling outdoor landscapes on your speeder. Each location brings new adventures, unique challenges, and enticing rewards if you're willing to take the risk."
+                    },
+                    {
+                        "heading": "EXPERIENCE AN ORIGINAL SCOUNDREL STORY",
+                        "content": "Live the high-stakes lifestyle of an outlaw. Turn any situation to your advantage with Nix by your side: fight with your blaster, overcome enemies with stealth and gadgets, or find the right moments to distract enemies and gain the upper hand."
+                    },
+                    {
+                        "heading": "EMBARK ON HIGH-STAKES MISSIONS",
+                        "content": "Take on high-risk, high-reward missions from the galaxy's crime syndicates. Steal valuable goods, infiltrate secret locations, and outwit enemies as one of the galaxy's most wanted. Every choice you make influences your ever-changing reputation."
+                    },
+                    {
+                        "heading": "JUMP INTO THE PILOT SEAT",
+                        "content": "Pilot your ship, the Trailblazer, as you engage in thrilling dogfights with the Empire and other foes. Find the right opportunities to chase, evade, and attack to get the upper hand."
+                    }
+                ],
+                "ageRating": {
+                    "rating": 13,
+                    "reasons": ["Violence", "Mild Language", "Suggestive Themes"]
+                },
+                "features": [
+                    "Single Player",
+                    "Open World",
+                    "Photo Mode",
+                    "Achievement Support"
+                ],
+                "systemRequirements": {
+                    "minimum": {
+                        "os": "Windows 10/11 64-bit",
+                        "cpu": "Intel Core i7-8700K / AMD Ryzen 5 3600",
+                        "gpu": "NVIDIA GeForce GTX 1660 6GB / AMD Radeon RX 5600 XT 6GB / Intel Arc A750 8GB",
+                        "ram": "16GB",
+                        "vram": "6GB",
+                        "storage": "65GB SSD"
+                    },
+                    "recommended": {
+                        "os": "Windows 10/11 64-bit",
+                        "cpu": "Intel Core i5-10400F / AMD Ryzen 5 5600X",
+                        "gpu": "NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT",
+                        "ram": "16GB",
+                        "vram": "8GB",
+                        "storage": "65GB SSD"
+                    },
+                    "ultra": {
+                        "os": "Windows 10/11 64-bit",
+                        "cpu": "Intel Core i7-12700K / AMD Ryzen 7 5800X3D",
+                        "gpu": "NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XTX",
+                        "ram": "16GB",
+                        "vram": "16GB",
+                        "storage": "65GB SSD"
+                    }
+                },
+                "multiplayer": false,
+                "region": "Global"
+                
+            },
+            {
+                "id": "645ba723a9ce0448bffa4c13",
+                "title": "Star Wars Outlaws",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw0c588bcd/HELIX/GamePageLogo.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa598c10f/images/large/645ba713a9ce0448bffa4c12.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw23f30fd8/images/pdpbanner/645ba713a9ce0448bffa4c12-bg.jpg?sw=1920&sfrm=jpg",
+                "sectionImg": "https://static-news.ubisoft.com/news/content/prod/StarWars/FTP_banner_SW_2024.jpg?imWidth=1800",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw799df81d/images/large/645ba713a9ce0448bffa4c12-1.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw23ad9572/images/large/645ba713a9ce0448bffa4c12-2.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwc7fcd7ce/images/large/645ba713a9ce0448bffa4c12-7.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa32d6ae8/images/large/645ba713a9ce0448bffa4c12-4.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw219adbb8/images/large/645ba713a9ce0448bffa4c12-5.jpg?sw=500&sh=270&sm=fit"
+                ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw99169730/StarWarsOutlaws/Outlaws_Module1.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw838a8f4e/StarWarsOutlaws/Outlaws_Module2.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw3f1612a2/StarWarsOutlaws/Outlaws_Module3.jpg"
+                ],
+                "videos": [
+                    "https://www.youtube.com/watch?v=QP_wXv2ErgI",
+                    "https://www.youtube.com/watch?v=cMqqfkLhuZk"
+                ],
+                "price": 0,
+                "discount": 0,
+                "isFree": true,
+                "saleCount": 0,
+                "viewCount": 0,
+                "releaseDate": "2024-08-30",
+                "publisher": "UBISOFT",
+                "developer": "Massive Entertainment",
+                "genre": ["Action-Adventure", "Open World", "Third-Person Shooter"],
+                "platforms": ["PC", "PlayStation 5", "Xbox Series X|S"],
+                "languages": [
+                    {
+                        "language": "English",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "French",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "German",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Italian",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Spanish",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Polish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Portuguese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Chinese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Japanese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Korean",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    }
+                ],
+                "brand": "Star Wars",
+                "productEdition": "Demo",
+                "shortDescription": "Experience the first-ever open world Star Wars game, set between the events of The Empire Strikes Back and Return of the Jedi. Risk it all as scoundrel Kay Vess, seeking freedom and the means to start a new life.",
+                "fullDescription": [
+                    {
+                        "heading": "DISCOVER A GALAXY OF OPPORTUNITY",
+                        "content": "Explore distinct locations with bustling cities and cantinas. Race across sprawling outdoor landscapes on your speeder. Each location brings new adventures, unique challenges, and enticing rewards if you're willing to take the risk."
+                    },
+                    {
+                        "heading": "EXPERIENCE AN ORIGINAL SCOUNDREL STORY",
+                        "content": "Live the high-stakes lifestyle of an outlaw. Turn any situation to your advantage with Nix by your side: fight with your blaster, overcome enemies with stealth and gadgets, or find the right moments to distract enemies and gain the upper hand."
+                    },
+                    {
+                        "heading": "EMBARK ON HIGH-STAKES MISSIONS",
+                        "content": "Take on high-risk, high-reward missions from the galaxy's crime syndicates. Steal valuable goods, infiltrate secret locations, and outwit enemies as one of the galaxy's most wanted. Every choice you make influences your ever-changing reputation."
+                    },
+                    {
+                        "heading": "JUMP INTO THE PILOT SEAT",
+                        "content": "Pilot your ship, the Trailblazer, as you engage in thrilling dogfights with the Empire and other foes. Find the right opportunities to chase, evade, and attack to get the upper hand."
+                    }
+                ],
+                "ageRating": {
+                    "rating": 13,
+                    "reasons": ["Violence", "Mild Language", "Suggestive Themes"]
+                },
+                "features": [
+                    "Single Player",
+                    "Open World",
+                    "Photo Mode",
+                    "Achievement Support"
+                ],
+                "systemRequirements": {
+                    "minimum": {
+                        "os": "Windows 10/11 64-bit",
+                        "cpu": "Intel Core i7-8700K / AMD Ryzen 5 3600",
+                        "gpu": "NVIDIA GeForce GTX 1660 6GB / AMD Radeon RX 5600 XT 6GB / Intel Arc A750 8GB",
+                        "ram": "16GB",
+                        "vram": "6GB",
+                        "storage": "65GB SSD"
+                    },
+                    "recommended": {
+                        "os": "Windows 10/11 64-bit",
+                        "cpu": "Intel Core i5-10400F / AMD Ryzen 5 5600X",
+                        "gpu": "NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT",
+                        "ram": "16GB",
+                        "vram": "8GB",
+                        "storage": "65GB SSD"
+                    },
+                    "ultra": {
+                        "os": "Windows 10/11 64-bit",
+                        "cpu": "Intel Core i7-12700K / AMD Ryzen 7 5800X3D",
+                        "gpu": "NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XTX",
+                        "ram": "16GB",
+                        "vram": "16GB",
+                        "storage": "65GB SSD"
+                    }
+                },
+                "multiplayer": false,
+                "region": "Global"
+                
+            },
+            {
+                "id": "645ba723a9ce0448bffa4c13",
+                "title": "Star Wars Outlaws",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw0c588bcd/HELIX/GamePageLogo.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa598c10f/images/large/645ba713a9ce0448bffa4c12.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw23f30fd8/images/pdpbanner/645ba713a9ce0448bffa4c12-bg.jpg?sw=1920&sfrm=jpg",
+                "sectionImg": "https://static-news.ubisoft.com/news/content/prod/StarWars/FTP_banner_SW_2024.jpg?imWidth=1800",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw799df81d/images/large/645ba713a9ce0448bffa4c12-1.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw23ad9572/images/large/645ba713a9ce0448bffa4c12-2.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwc7fcd7ce/images/large/645ba713a9ce0448bffa4c12-7.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa32d6ae8/images/large/645ba713a9ce0448bffa4c12-4.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw219adbb8/images/large/645ba713a9ce0448bffa4c12-5.jpg?sw=500&sh=270&sm=fit"
+                ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw99169730/StarWarsOutlaws/Outlaws_Module1.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw838a8f4e/StarWarsOutlaws/Outlaws_Module2.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw3f1612a2/StarWarsOutlaws/Outlaws_Module3.jpg"
+                ],
+                "videos": [
+                    "https://www.youtube.com/watch?v=QP_wXv2ErgI",
+                    "https://www.youtube.com/watch?v=cMqqfkLhuZk"
+                ],
+                "price": 89.99,
+                "discount": 0,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 0,
+                "releaseDate": "2024-08-30",
+                "publisher": "UBISOFT",
+                "developer": "Massive Entertainment",
+                "genre": ["Action-Adventure", "Open World", "Third-Person Shooter"],
+                "platforms": ["PC", "PlayStation 5", "Xbox Series X|S"],
+                "languages": [
+                    {
+                        "language": "English",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "French",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "German",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Italian",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Spanish",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Polish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Portuguese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Chinese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Japanese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Korean",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    }
+                ],
+                "brand": "Star Wars",
+                "productEdition": "Deluxe Edition",
+                "shortDescription": "Experience the first-ever open world Star Wars game, set between the events of The Empire Strikes Back and Return of the Jedi. Risk it all as scoundrel Kay Vess, seeking freedom and the means to start a new life.",
+                "fullDescription": [
+                    {
+                        "heading": "DISCOVER A GALAXY OF OPPORTUNITY",
+                        "content": "Explore distinct locations with bustling cities and cantinas. Race across sprawling outdoor landscapes on your speeder. Each location brings new adventures, unique challenges, and enticing rewards if you're willing to take the risk."
+                    },
+                    {
+                        "heading": "EXPERIENCE AN ORIGINAL SCOUNDREL STORY",
+                        "content": "Live the high-stakes lifestyle of an outlaw. Turn any situation to your advantage with Nix by your side: fight with your blaster, overcome enemies with stealth and gadgets, or find the right moments to distract enemies and gain the upper hand."
+                    },
+                    {
+                        "heading": "EMBARK ON HIGH-STAKES MISSIONS",
+                        "content": "Take on high-risk, high-reward missions from the galaxy's crime syndicates. Steal valuable goods, infiltrate secret locations, and outwit enemies as one of the galaxy's most wanted. Every choice you make influences your ever-changing reputation."
+                    },
+                    {
+                        "heading": "JUMP INTO THE PILOT SEAT",
+                        "content": "Pilot your ship, the Trailblazer, as you engage in thrilling dogfights with the Empire and other foes. Find the right opportunities to chase, evade, and attack to get the upper hand."
+                    }
+                ],
+                "ageRating": {
+                    "rating": 13,
+                    "reasons": ["Violence", "Mild Language", "Suggestive Themes"]
+                },
+                "features": [
+                    "Single Player",
+                    "Open World",
+                    "Photo Mode",
+                    "Achievement Support"
+                ],
+                "systemRequirements": {
+                    "minimum": {
+                        "os": "Windows 10/11 64-bit",
+                        "cpu": "Intel Core i7-8700K / AMD Ryzen 5 3600",
+                        "gpu": "NVIDIA GeForce GTX 1660 6GB / AMD Radeon RX 5600 XT 6GB / Intel Arc A750 8GB",
+                        "ram": "16GB",
+                        "vram": "6GB",
+                        "storage": "65GB SSD"
+                    },
+                    "recommended": {
+                        "os": "Windows 10/11 64-bit",
+                        "cpu": "Intel Core i5-10400F / AMD Ryzen 5 5600X",
+                        "gpu": "NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT",
+                        "ram": "16GB",
+                        "vram": "8GB",
+                        "storage": "65GB SSD"
+                    },
+                    "ultra": {
+                        "os": "Windows 10/11 64-bit",
+                        "cpu": "Intel Core i7-12700K / AMD Ryzen 7 5800X3D",
+                        "gpu": "NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XTX",
+                        "ram": "16GB",
+                        "vram": "16GB",
+                        "storage": "65GB SSD"
+                    }
+                },
+                "multiplayer": false,
+                "region": "Global"
+                
+            },
+            {
+                "id": "645ba723a9ce0448bffa4c13",
+                "title": "Star Wars Outlaws",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw0c588bcd/HELIX/GamePageLogo.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa598c10f/images/large/645ba713a9ce0448bffa4c12.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw23f30fd8/images/pdpbanner/645ba713a9ce0448bffa4c12-bg.jpg?sw=1920&sfrm=jpg",
+                "sectionImg": "https://static-news.ubisoft.com/news/content/prod/StarWars/FTP_banner_SW_2024.jpg?imWidth=1800",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw799df81d/images/large/645ba713a9ce0448bffa4c12-1.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw23ad9572/images/large/645ba713a9ce0448bffa4c12-2.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwc7fcd7ce/images/large/645ba713a9ce0448bffa4c12-7.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa32d6ae8/images/large/645ba713a9ce0448bffa4c12-4.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw219adbb8/images/large/645ba713a9ce0448bffa4c12-5.jpg?sw=500&sh=270&sm=fit"
+                ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw99169730/StarWarsOutlaws/Outlaws_Module1.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw838a8f4e/StarWarsOutlaws/Outlaws_Module2.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw3f1612a2/StarWarsOutlaws/Outlaws_Module3.jpg"
+                ],
+                "videos": [
+                    "https://www.youtube.com/watch?v=QP_wXv2ErgI",
+                    "https://www.youtube.com/watch?v=cMqqfkLhuZk"
+                ],
+                "price": 109.99,
+                "discount": 0,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 10,
+                "releaseDate": "2024-08-30",
+                "publisher": "UBISOFT",
+                "developer": "Massive Entertainment",
+                "genre": ["Action-Adventure", "Open World", "Third-Person Shooter"],
+                "platforms": ["PC", "PlayStation 5", "Xbox Series X|S"],
+                "languages": [
+                    {
+                        "language": "English",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "French",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "German",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Italian",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Spanish",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Polish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Portuguese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Chinese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Japanese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Korean",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    }
+                ],
+                "brand": "Star Wars",
+                "productEdition": "Gold Edition",
+                "shortDescription": "Experience the first-ever open world Star Wars game, set between the events of The Empire Strikes Back and Return of the Jedi. Risk it all as scoundrel Kay Vess, seeking freedom and the means to start a new life.",
+                "fullDescription": [
+                    {
+                        "heading": "DISCOVER A GALAXY OF OPPORTUNITY",
+                        "content": "Explore distinct locations with bustling cities and cantinas. Race across sprawling outdoor landscapes on your speeder. Each location brings new adventures, unique challenges, and enticing rewards if you're willing to take the risk."
+                    },
+                    {
+                        "heading": "EXPERIENCE AN ORIGINAL SCOUNDREL STORY",
+                        "content": "Live the high-stakes lifestyle of an outlaw. Turn any situation to your advantage with Nix by your side: fight with your blaster, overcome enemies with stealth and gadgets, or find the right moments to distract enemies and gain the upper hand."
+                    },
+                    {
+                        "heading": "EMBARK ON HIGH-STAKES MISSIONS",
+                        "content": "Take on high-risk, high-reward missions from the galaxy's crime syndicates. Steal valuable goods, infiltrate secret locations, and outwit enemies as one of the galaxy's most wanted. Every choice you make influences your ever-changing reputation."
+                    },
+                    {
+                        "heading": "JUMP INTO THE PILOT SEAT",
+                        "content": "Pilot your ship, the Trailblazer, as you engage in thrilling dogfights with the Empire and other foes. Find the right opportunities to chase, evade, and attack to get the upper hand."
+                    }
+                ],
+                "ageRating": {
+                    "rating": 13,
+                    "reasons": ["Violence", "Mild Language", "Suggestive Themes"]
+                },
+                "features": [
+                    "Single Player",
+                    "Open World",
+                    "Photo Mode",
+                    "Achievement Support"
+                ],
+                "systemRequirements": {
+                    "minimum": {
+                        "os": "Windows 10/11 64-bit",
+                        "cpu": "Intel Core i7-8700K / AMD Ryzen 5 3600",
+                        "gpu": "NVIDIA GeForce GTX 1660 6GB / AMD Radeon RX 5600 XT 6GB / Intel Arc A750 8GB",
+                        "ram": "16GB",
+                        "vram": "6GB",
+                        "storage": "65GB SSD"
+                    },
+                    "recommended": {
+                        "os": "Windows 10/11 64-bit",
+                        "cpu": "Intel Core i5-10400F / AMD Ryzen 5 5600X",
+                        "gpu": "NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT",
+                        "ram": "16GB",
+                        "vram": "8GB",
+                        "storage": "65GB SSD"
+                    },
+                    "ultra": {
+                        "os": "Windows 10/11 64-bit",
+                        "cpu": "Intel Core i7-12700K / AMD Ryzen 7 5800X3D",
+                        "gpu": "NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XTX",
+                        "ram": "16GB",
+                        "vram": "16GB",
+                        "storage": "65GB SSD"
+                    }
+                },
+                "multiplayer": false,
+                "region": "Global"
+                
+            },
+            {
+                "id": "645ba723a9ce0448bffa4c13",
+                "title": "Star Wars Outlaws",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw0c588bcd/HELIX/GamePageLogo.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa598c10f/images/large/645ba713a9ce0448bffa4c12.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw23f30fd8/images/pdpbanner/645ba713a9ce0448bffa4c12-bg.jpg?sw=1920&sfrm=jpg",
+                "sectionImg": "https://static-news.ubisoft.com/news/content/prod/StarWars/FTP_banner_SW_2024.jpg?imWidth=1800",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw799df81d/images/large/645ba713a9ce0448bffa4c12-1.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw23ad9572/images/large/645ba713a9ce0448bffa4c12-2.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwc7fcd7ce/images/large/645ba713a9ce0448bffa4c12-7.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa32d6ae8/images/large/645ba713a9ce0448bffa4c12-4.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw219adbb8/images/large/645ba713a9ce0448bffa4c12-5.jpg?sw=500&sh=270&sm=fit"
+                ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw99169730/StarWarsOutlaws/Outlaws_Module1.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw838a8f4e/StarWarsOutlaws/Outlaws_Module2.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw3f1612a2/StarWarsOutlaws/Outlaws_Module3.jpg"
+                ],
+                "videos": [
+                    "https://www.youtube.com/watch?v=QP_wXv2ErgI",
+                    "https://www.youtube.com/watch?v=cMqqfkLhuZk"
+                ],
+                "price": 129.99,
+                "discount": 0,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 10,
+                "releaseDate": "2024-08-30",
+                "publisher": "UBISOFT",
+                "developer": "Massive Entertainment",
+                "genre": ["Action-Adventure", "Open World", "Third-Person Shooter"],
+                "platforms": ["PC", "PlayStation 5", "Xbox Series X|S"],
+                "languages": [
+                    {
+                        "language": "English",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "French",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "German",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Italian",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Spanish",
+                        "audio": true,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Polish",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Portuguese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Chinese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Japanese",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    },
+                    {
+                        "language": "Korean",
+                        "audio": false,
+                        "interface": true,
+                        "subtitle": true
+                    }
+                ],
+                "brand": "Star Wars",
+                "productEdition": "Ultimate Edition ",
+                "shortDescription": "Experience the first-ever open world Star Wars game, set between the events of The Empire Strikes Back and Return of the Jedi. Risk it all as scoundrel Kay Vess, seeking freedom and the means to start a new life.",
+                "fullDescription": [
+                    {
+                        "heading": "DISCOVER A GALAXY OF OPPORTUNITY",
+                        "content": "Explore distinct locations with bustling cities and cantinas. Race across sprawling outdoor landscapes on your speeder. Each location brings new adventures, unique challenges, and enticing rewards if you're willing to take the risk."
+                    },
+                    {
+                        "heading": "EXPERIENCE AN ORIGINAL SCOUNDREL STORY",
+                        "content": "Live the high-stakes lifestyle of an outlaw. Turn any situation to your advantage with Nix by your side: fight with your blaster, overcome enemies with stealth and gadgets, or find the right moments to distract enemies and gain the upper hand."
+                    },
+                    {
+                        "heading": "EMBARK ON HIGH-STAKES MISSIONS",
+                        "content": "Take on high-risk, high-reward missions from the galaxy's crime syndicates. Steal valuable goods, infiltrate secret locations, and outwit enemies as one of the galaxy's most wanted. Every choice you make influences your ever-changing reputation."
+                    },
+                    {
+                        "heading": "JUMP INTO THE PILOT SEAT",
+                        "content": "Pilot your ship, the Trailblazer, as you engage in thrilling dogfights with the Empire and other foes. Find the right opportunities to chase, evade, and attack to get the upper hand."
+                    }
+                ],
+                "ageRating": {
+                    "rating": 13,
+                    "reasons": ["Violence", "Mild Language", "Suggestive Themes"]
+                },
+                "features": [
+                    "Single Player",
+                    "Open World",
+                    "Photo Mode",
+                    "Achievement Support"
+                ],
+                "systemRequirements": {
+                    "minimum": {
+                        "os": "Windows 10/11 64-bit",
+                        "cpu": "Intel Core i7-8700K / AMD Ryzen 5 3600",
+                        "gpu": "NVIDIA GeForce GTX 1660 6GB / AMD Radeon RX 5600 XT 6GB / Intel Arc A750 8GB",
+                        "ram": "16GB",
+                        "vram": "6GB",
+                        "storage": "65GB SSD"
+                    },
+                    "recommended": {
+                        "os": "Windows 10/11 64-bit",
+                        "cpu": "Intel Core i5-10400F / AMD Ryzen 5 5600X",
+                        "gpu": "NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT",
+                        "ram": "16GB",
+                        "vram": "8GB",
+                        "storage": "65GB SSD"
+                    },
+                    "ultra": {
+                        "os": "Windows 10/11 64-bit",
+                        "cpu": "Intel Core i7-12700K / AMD Ryzen 7 5800X3D",
+                        "gpu": "NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XTX",
+                        "ram": "16GB",
+                        "vram": "16GB",
+                        "storage": "65GB SSD"
+                    }
+                },
+                "multiplayer": false,
+                "region": "Global"
+                
             }
+            
             ],
 
             "DLCs": [
