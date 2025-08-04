@@ -24,6 +24,7 @@
                     "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwb1063951/FC6_PHP/FCT Logo RGB.png",
                     "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw7387f247/images/large/5ecd2c925cdf9a1528a8c1d1.jpg?sw=300&sh=395&sm=fit", 
                     "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw350003b1/images/pdpbanner/tetrapdpbanner.jpg?sw=1920&sfrm=jpg", 
+                    "sectionImg":"",
                     "screenshots": [
                         "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwec9a3841/images/large/616e983f0d253c42d49fa640-5.jpg?sw=500&sh=270&sm=fit",
                         "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw0de9e65a/images/large/616e983f0d253c42d49fa640-6.jpg?sw=500&sh=270&sm=fit",
@@ -145,6 +146,7 @@
                 "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw6bbcf5bf/Far Cry/FC5_Logo.png",
                 "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw35e923ad/images/large/591567f6ca1a6460388b4568.jpg?sw=300&sh=395&sm=fit",
                 "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw52211af4/images/pdpbanner/591567f6ca1a6460388b4568-bg.jpg?sw=1920&sfrm=jpg",
+                "sectionImg":"",
                 "screenshots": [
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwb2488575/images/large/591567f6ca1a6460388b4568-10.jpg?sw=500&sh=270&sm=fit",
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw65aa524f/images/large/591567f6ca1a6460388b4568-9.jpg?sw=500&sh=270&sm=fit",
@@ -288,6 +290,7 @@
                 "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw6bbcf5bf/Far Cry/FC5_Logo.png",
                 "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw9d1ff632/images/large/591980f94e0165260a8b4568.jpg?sw=300&sh=395&sm=fit",
                 "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw52211af4/images/pdpbanner/591567f6ca1a6460388b4568-bg.jpg?sw=1920&sfrm=jpg",
+                "sectionImg":"",
                 "screenshots": [
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwb2488575/images/large/591567f6ca1a6460388b4568-10.jpg?sw=500&sh=270&sm=fit",
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw65aa524f/images/large/591567f6ca1a6460388b4568-9.jpg?sw=500&sh=270&sm=fit",
@@ -429,6 +432,7 @@
                 "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwde86dc63/Far Cry/FCP/FCP_Logo_No-Margins.png",
                 "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw1c437c7e/images/large/56c4947a88a7e300458b45e8.jpg?sw=300&sh=395&sm=fit",
                 "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwc7816773/images/pdpbanner/56c4947a88a7e300458b45e8.jpg?sw=1920&sfrm=jpg",
+                "sectionImg":"",
                 "screenshots": [
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwdc172899/images/large/56c4947a88a7e300458b45e8-4.jpg?sw=500&sh=270&sm=fit",
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwefb55832/images/large/56c4947a88a7e300458b45e8-2.jpg?sw=500&sh=270&sm=fit",
@@ -553,6 +557,8 @@
                 "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw11c7655c/Far Cry/FC4/FC4_Logo_No-Margins.png",
                 "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw50af203c/images/large/56c4947a88a7e300458b45e2.jpg?sw=300&sh=395&sm=fit",
                 "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw6976382b/images/large/56c4947a88a7e300458b45e2-3.jpg?sw=1920&sfrm=jpg",
+                "sectionImg":"",
+
                 "screenshots": [
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw6976382b/images/large/56c4947a88a7e300458b45e2-3.jpg?sw=500&sh=270&sm=fit",
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw870b0c56/images/large/56c4947a88a7e300458b45e2-5.jpg?sw=500&sh=270&sm=fit",
@@ -664,8 +670,9 @@
                 "type": "basedgame",
                 "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwd4b38260/R6S X/R6X-logo-eng.png",
                 "cardImg": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5XHFligRh0G5sIwqf1bCmR/d2004465daba39fef22c0075cc77fb57/rainbow-six-siege-x_boxshot.jpg",
-                "sectionImg": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7mVS53BbLEYj4qwBPgSFvf/ce254d10b5ad2d059ac5a1bd1975d469/SiegeX_THUMBNAIL_2.jpg",
                 "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwdaa0b962/images/pdpbanner/67c1bc71f98b730ad03b5d48-bg.jpg?sw=1920&sfrm=jpg",
+                "sectionImg": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7mVS53BbLEYj4qwBPgSFvf/ce254d10b5ad2d059ac5a1bd1975d469/SiegeX_THUMBNAIL_2.jpg",
+               
                 "screenshots": [
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw9ae6ed36/images/large/67c1bc71f98b730ad03b5d48-m.jpg?sw=500&sh=270&sm=fit",
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw9b8c1554/images/large/67c0ae5b4997ec4c09ed9c34-pcs.jpg?sw=500&sh=270&sm=fit",
@@ -797,9 +804,9 @@
                 "type": "basedgame",
                 "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwd4b38260/R6S X/R6X-logo-eng.png",
                 "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw29c5c351/images/large/67c1bc71f98b730ad03b5d48.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwdaa0b962/images/pdpbanner/67c1bc71f98b730ad03b5d48-bg.jpg?sw=1920&sfrm=jpg",
                 "sectionImg": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1qwW4wNDneNTMzhHOfagwE/aedc42642c44b330e96394ca999997ea/R6SX_Elite_h_960x540.jpg",
 
-                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwdaa0b962/images/pdpbanner/67c1bc71f98b730ad03b5d48-bg.jpg?sw=1920&sfrm=jpg",
                 "screenshots": [
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw9ae6ed36/images/large/67c1bc71f98b730ad03b5d48-m.jpg?sw=500&sh=270&sm=fit",
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw9b8c1554/images/large/67c0ae5b4997ec4c09ed9c34-pcs.jpg?sw=500&sh=270&sm=fit",
@@ -931,9 +938,9 @@
                 "type": "basedgame",
                 "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwd4b38260/R6S X/R6X-logo-eng.png",
                 "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwb0aaa30a/images/large/67c1bc2ff98b730ad03b5d47.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwdaa0b962/images/pdpbanner/67c1bc71f98b730ad03b5d48-bg.jpg?sw=1920&sfrm=jpg",
                 "sectionImg": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1yAtg4xUOothtxitQxTGo9/cb4e2b55dab769935645ff2ff713033c/R6SX_Ultimate_h_960x540.jpg",
 
-                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwdaa0b962/images/pdpbanner/67c1bc71f98b730ad03b5d48-bg.jpg?sw=1920&sfrm=jpg",
                 "screenshots": [
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw9bedcde6/images/large/67c1bc2ff98b730ad03b5d47-m.jpg?sw=500&sh=270&sm=fit",
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw9b8c1554/images/large/67c0ae5b4997ec4c09ed9c34-pcs.jpg?sw=500&sh=270&sm=fit",
@@ -1065,6 +1072,7 @@
                 "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw44ffb996/ACSH/ACR_Logo.png",
                 "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw10cd2e73/images/large/660e5a03fbff4e2940488bcd.jpg?sw=300&sh=395&sm=fit",
                 "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw35100cc0/images/pdpbanner/660e5a03fbff4e2940488bcd-bg.jpg?sw=1920&sfrm=jpg",
+                "sectionImg":"",
                 "screenshots": [
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw0f6f4477/images/large/673b49019baa3f5f7f025a29-pc.jpg?sw=500&sh=270&sm=fit",
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw4b512a95/images/large/660e5a03fbff4e2940488bcd-1.jpg?sw=500&sh=270&sm=fit",
@@ -1221,6 +1229,7 @@
                 "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwb0cb3ae5/ACV/ACV_Logo.png",
                 "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw35e923ad/images/large/616edb950d253c42d49fa64e.jpg?sw=300&sh=395&sm=fit",
                 "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Library-Sites-shared-library-web/default/dw52acf822/ACV/ACV_Banner_STD.jpg?sw=1920&sfrm=jpg",
+                "sectionImg":"",
                 "screenshots": [
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw365020a5/images/4_ACV_Visceral_Combat_Male.jpg?sw=500&sh=270&sm=fit",
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw365020a5/images/4_ACV_Visceral_Combat_Male.jpg?sw=500&sh=270&sm=fit",
@@ -1368,6 +1377,7 @@
                 "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwff77d3ca/ACOD/ACOD_logo.png",
                 "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw889b9197/images/large/5afda8aa6b54a4271407a875.jpg?sw=300&sh=395&sm=fit",
                 "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Library-Sites-shared-library-web/default/dwa8edcf60/ACOD/ACOD_Banner_STD.jpg?sw=1920&sfrm=jpg",
+                "sectionImg":"",
                 "screenshots": [
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwc4e7ae21/images/large/5afda8aa6b54a4271407a875-4.jpg?sw=500&sh=270&sm=fit",
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwf323ab8f/images/large/5afda8aa6b54a4271407a875-7.jpg?sw=500&sh=270&sm=fit",
@@ -1534,6 +1544,7 @@
                 "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw850c633a/Brawlhalla/Logo.png",
                 "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw35e923ad/images/large/6077f2aa5cdf9a268c10d3dd.jpg?sw=300&sh=395&sm=fit",
                 "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwd64ccfe7/images/pdpbanner/6077f2aa5cdf9a268c10d3dd-bg.jpg?sw=1920&sfrm=jpg",
+                "sectionImg": "https://static3.cdn.ubi.com/orbit/uplaynews/_UBC_News2023/New_Client_Play_for_free/FTP_960x540_Image_cover_BRAWLHALLA.jpg?imWidth=1800",
                 "screenshots": [
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwc3f22cf1/images/large/6077f2aa5cdf9a268c10d3ddMT4-1.jpg?sw=500&sh=270&sm=fit",
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwd20f3965/images/large/6077f2aa5cdf9a268c10d3ddMT4-2.jpg?sw=500&sh=270&sm=fit",
@@ -1682,64 +1693,23 @@
             ],
 
             "DLCs": [
-                {
-                    "id": "4e10b2e4-d3ac-4af9-9944-641cbe0f4e89",
-                    "gameId": "56c4947a88a7e300458b45e2", 
-                    "title": "Far Cry 4 Season Pass",
-                    "typeDlc": "Season pass", 
-                    "type": "DLC", 
-                    "logo": "", 
-                    "bannerImg": "", 
-                    "cardImg": "", 
-                    "screenshots": [],
-                    "videos": [],
-                    "price": null, 
-                    "discount": 0,
-                    "isFree": false,
-                    "saleCount": 0,
-                    "viewCount": 0,
-                    "releaseDate": "2014-11-18",
-                    "description": "Continue your Far Cry 4 adventure with the Far Cry 4 Season Pass. Unlock all upcoming Far Cry 4 add-on content, including the Escape from Durgesh Prison campaign, the Valley of the Yetis campaign, the five pre-order missions plus weapons, and Overrun – an exclusive PvP mode. Includes an exclusive single player mission only available with the Season Pass.",
-                    "genre": ["Shooter"],
-                    "platforms": ["PC", "PS4", "PS3", "Xbox One", "Xbox 360"],
-                    "ageRating": {
-                        "rating":  18,
-                        "reasons": ["Bad Language", "In-Game Purchases", "Violence"]
-                    },
-                    "requiresBaseGame": true,
-                    "baseGameTitle": "Far Cry 4",
-                    "baseGameUrl": "https://store.ubisoft.com/ie/far-cry-4/56c4947a88a7e300458b45e2.html",
-                   
-                    "brand": "Far Cry",
-                    "features": [
-                        "Single Player",
-                        "Multiplayer", 
-                        "Exclusive PvP Mode",
-                        "Additional Campaigns",
-                        "Exclusive Mission"
-                    ],
-                    
-                    "dlcCategory": "Expansion", 
-                    
-                    "languages": [], 
-                    "region": "Global",
-                    "availability": true,
-                    
-                    
-                    
-                    
-                    "tags": ["Season Pass", "Campaign", "PvP", "Exclusive Content"]
-                },
+               
                 {
                     "id": "8238e60c-efde-4ac5-9f9e-c3158e428d84",
                     "gameId": "6077f2aa5cdf9a268c10d3dd", 
                     "title": "Brawlhalla Battle Pass Classic 6 - Gold Pass",
                     "typeDlc": "Battle Pass", 
                     "type": "DLC", 
-                    "logo": "", 
-                    "bannerImg": "https://store.ubisoft.com/ie/brawlhalla-summer-esports-2025-pack/6818abd48ac12e7a99688232.html?lang=en-ZW", 
+                    "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw850c633a/Brawlhalla/Logo.png",
+                    "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwd64ccfe7/images/pdpbanner/6077f2aa5cdf9a268c10d3dd-bg.jpg?sw=1920&sfrm=jpg",
                     "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa2ed6446/images/large/68187d658ac12e7a99688230.jpg?sw=300&sh=395&sm=fit", 
-                    "screenshots": [""],
+                    "screenshots": [                   
+                        "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwd20f3965/images/large/6077f2aa5cdf9a268c10d3ddMT4-2.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw488ecbce/images/large/6077f2aa5cdf9a268c10d3dd-1.jpg?sw=500&sh=270&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw34b8e80d/images/large/6077f2aa5cdf9a268c10d3dd-2.jpg?sw=500&sh=270&sm=fit"
+
+
+                    ],
                     "videos": [],
                     "price": 10.99, 
                     "discount": 0,
@@ -1747,7 +1717,7 @@
                     "saleCount": 0,
                     "viewCount": 0,
                     "releaseDate": "2024-12-01",
-                    "description": "Upgrade your Brawlhalla experience with the Battle Pass Classic 6 - Gold Pass! Unlock exclusive skins, emotes, sidekicks, and other premium rewards as you progress through the battle pass tiers. Get instant access to premium rewards and earn additional bonuses throughout the season.",
+                    "shortDescription": "Upgrade your Brawlhalla experience with the Battle Pass Classic 6 - Gold Pass! Unlock exclusive skins, emotes, sidekicks, and other premium rewards as you progress through the battle pass tiers. Get instant access to premium rewards and earn additional bonuses throughout the season.",
                     "genre": ["Fighting"],
                     "platforms": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X|S", "Nintendo Switch", "Mobile"],
                     "ageRating": {
@@ -1787,9 +1757,10 @@
                     "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw267ce658/images/pdpbanner/6818abd48ac12e7a99688232-bg.jpg?sw=1920&sfrm=jpg", 
                     "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw9894e1e9/images/large/6818abd48ac12e7a99688232.jpg?sw=300&sh=395&sm=fit", 
                     "screenshots": [
-                        "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwf46a2e95/images/large/6818abd48ac12e7a99688232-1.jpg?sw=500&sh=270&sm=fit",
-                        "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwf46a2e95/images/large/6818abd48ac12e7a99688232-2.jpg?sw=500&sh=270&sm=fit"
-                    ],
+                        "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwd20f3965/images/large/6077f2aa5cdf9a268c10d3ddMT4-2.jpg?sw=500&sh=270&sm=fit",
+                        "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw488ecbce/images/large/6077f2aa5cdf9a268c10d3dd-1.jpg?sw=500&sh=270&sm=fit",
+                        "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw34b8e80d/images/large/6077f2aa5cdf9a268c10d3dd-2.jpg?sw=500&sh=270&sm=fit"
+                        ],
                     "videos": [],
                     "price": 8.99, 
                     "discount": 0,
@@ -1797,7 +1768,7 @@
                     "saleCount": 0,
                     "viewCount": 0,
                     "releaseDate": "2025-06-01",
-                    "description": "The Summer Esports 2025 Pack is here! This limited-time pack contains 300 Mammoth Coins, the Summer Esports 2025 Avatar, and the exclusive 'Ship Wheel' Axe Weapon Skin. Show off your dedication to Brawlhalla esports!",
+                    "shortDescription": "The Summer Esports 2025 Pack is here! This limited-time pack contains 300 Mammoth Coins, the Summer Esports 2025 Avatar, and the exclusive 'Ship Wheel' Axe Weapon Skin. Show off your dedication to Brawlhalla esports!",
                     "genre": ["Fighting"],
                     "platforms": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X|S", "Nintendo Switch", "Mobile"],
                     "ageRating": {
