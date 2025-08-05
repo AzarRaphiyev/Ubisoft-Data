@@ -1691,7 +1691,7 @@
                 "availability": true
             },
             {
-                "id": "645ba723a9ce0448bffa4c13",
+                "id": "645ba723a9ce0448bffa4c09",
                 "title": "Star Wars Outlaws",
                 "type": "basedgame",
                 "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw0c588bcd/HELIX/GamePageLogo.png",
@@ -1706,9 +1706,9 @@
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw219adbb8/images/large/645ba713a9ce0448bffa4c12-5.jpg?sw=500&sh=270&sm=fit"
                 ],
                 "descriptionImg": [
-                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw99169730/StarWarsOutlaws/Outlaws_Module1.jpg",
-                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw838a8f4e/StarWarsOutlaws/Outlaws_Module2.jpg",
-                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw3f1612a2/StarWarsOutlaws/Outlaws_Module3.jpg"
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwec933ecd/HELIX/SWO_Immersive_Bloc_1_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw7ac4d6f8/HELIX/SWO_Immersive_Bloc_2_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwc0b0ec08/HELIX/SWO_Immersive_Bloc_3_DESK.jpg"
                 ],
                 "videos": [
                     "https://www.youtube.com/watch?v=QP_wXv2ErgI",
@@ -1848,7 +1848,7 @@
                 
             },
             {
-                "id": "645ba723a9ce0448bffa4c13",
+                "id": "645ba723a9ce0448bffa4c10",
                 "title": "Star Wars Outlaws",
                 "type": "basedgame",
                 "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw0c588bcd/HELIX/GamePageLogo.png",
@@ -1863,9 +1863,9 @@
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw219adbb8/images/large/645ba713a9ce0448bffa4c12-5.jpg?sw=500&sh=270&sm=fit"
                 ],
                 "descriptionImg": [
-                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw99169730/StarWarsOutlaws/Outlaws_Module1.jpg",
-                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw838a8f4e/StarWarsOutlaws/Outlaws_Module2.jpg",
-                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw3f1612a2/StarWarsOutlaws/Outlaws_Module3.jpg"
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwec933ecd/HELIX/SWO_Immersive_Bloc_1_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw7ac4d6f8/HELIX/SWO_Immersive_Bloc_2_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwc0b0ec08/HELIX/SWO_Immersive_Bloc_3_DESK.jpg"
                 ],
                 "videos": [
                     "https://www.youtube.com/watch?v=QP_wXv2ErgI",
@@ -2004,8 +2004,8 @@
                 "region": "Global"
                 
             },
-            {
-                "id": "645ba723a9ce0448bffa4c13",
+            {   
+                "id": "645ba723a9ce0448bffa4c11",
                 "title": "Star Wars Outlaws",
                 "type": "basedgame",
                 "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw0c588bcd/HELIX/GamePageLogo.png",
@@ -2020,9 +2020,9 @@
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw219adbb8/images/large/645ba713a9ce0448bffa4c12-5.jpg?sw=500&sh=270&sm=fit"
                 ],
                 "descriptionImg": [
-                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw99169730/StarWarsOutlaws/Outlaws_Module1.jpg",
-                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw838a8f4e/StarWarsOutlaws/Outlaws_Module2.jpg",
-                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw3f1612a2/StarWarsOutlaws/Outlaws_Module3.jpg"
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwec933ecd/HELIX/SWO_Immersive_Bloc_1_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw7ac4d6f8/HELIX/SWO_Immersive_Bloc_2_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwc0b0ec08/HELIX/SWO_Immersive_Bloc_3_DESK.jpg"
                 ],
                 "videos": [
                     "https://www.youtube.com/watch?v=QP_wXv2ErgI",
@@ -2162,7 +2162,7 @@
                 
             },
             {
-                "id": "645ba723a9ce0448bffa4c13",
+                "id": "645ba723a9ce0448bffa4c12",
                 "title": "Star Wars Outlaws",
                 "type": "basedgame",
                 "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw0c588bcd/HELIX/GamePageLogo.png",
@@ -2177,9 +2177,9 @@
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw219adbb8/images/large/645ba713a9ce0448bffa4c12-5.jpg?sw=500&sh=270&sm=fit"
                 ],
                 "descriptionImg": [
-                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw99169730/StarWarsOutlaws/Outlaws_Module1.jpg",
-                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw838a8f4e/StarWarsOutlaws/Outlaws_Module2.jpg",
-                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw3f1612a2/StarWarsOutlaws/Outlaws_Module3.jpg"
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwec933ecd/HELIX/SWO_Immersive_Bloc_1_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw7ac4d6f8/HELIX/SWO_Immersive_Bloc_2_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwc0b0ec08/HELIX/SWO_Immersive_Bloc_3_DESK.jpg"
                 ],
                 "videos": [
                     "https://www.youtube.com/watch?v=QP_wXv2ErgI",
@@ -2334,9 +2334,9 @@
                     "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw219adbb8/images/large/645ba713a9ce0448bffa4c12-5.jpg?sw=500&sh=270&sm=fit"
                 ],
                 "descriptionImg": [
-                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw99169730/StarWarsOutlaws/Outlaws_Module1.jpg",
-                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw838a8f4e/StarWarsOutlaws/Outlaws_Module2.jpg",
-                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw3f1612a2/StarWarsOutlaws/Outlaws_Module3.jpg"
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwec933ecd/HELIX/SWO_Immersive_Bloc_1_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw7ac4d6f8/HELIX/SWO_Immersive_Bloc_2_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwc0b0ec08/HELIX/SWO_Immersive_Bloc_3_DESK.jpg"
                 ],
                 "videos": [
                     "https://www.youtube.com/watch?v=QP_wXv2ErgI",
