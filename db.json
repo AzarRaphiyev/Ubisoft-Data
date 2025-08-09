@@ -2681,6 +2681,140 @@
                     "sectionImg":""
                 }
                  
+            ],
+            "News":[
+            [
+                {
+                "id": "a7b3c9d2-4e5f-6789-abcd-ef1234567890",
+                "title": "Assassin's Creed Origins Featured in The Cleopatra Mystery Exhibit at the Arab World Institute",
+                "gameBrand": "Assassin's Creed Origins",
+                "description": "Assassin's Creed Origins' Ptolemaic Egypt has no shortage of famous historical figures including Ptolemy XIII and Julius Caesar, but it's the Ptolemaic dynasty's most famous queen, Cleopatra, that's the subject of a new exhibit at the Arab World Institute (IMA) in Paris. Running now until January 11, 2026,  is the museum's biggest exhibit of the year and explores the myths and realities around Cleopatra's life and reign. Visitors to the exhibit will be greeted by a six-minute video specially created from Assassin's Creed Origins, which depicts Alexandria under Cleopatra and features the city's famous lighthouse, library, and royal palace. Subtitles in English and French written by a team of historians including the exhibition co-curator, Christian-Georges Schwentzel, guide the viewers through the streets of Alexandria and its monuments.",
+                "category": "Culture & Education",
+                "sectionImg": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7DUlsmQ1MoO4Jtc88A3Lqe/739490befc13242372ff6599ce34a887/CLEOPATRA_thumbnail.jpg?imWidth=1800",
+                "link": "https://www.ubisoft.com/en-gb/news/ignt.54063/assassin-s-creed-origins-featured-in-the-cleopatra-mystery-exhibit-at-the-arab-world-institute",
+                "releaseDate": "2025-08-15"
+                },
+                {
+                "id": "b8c4d0e3-5f60-789a-bcde-f01234567891",
+                "title": "Community Spotlight – ChargingCharlie",
+                "gameBrand": "Skull and Bones",
+                "description": "Hello Captains, we are here today with a spotlight segment on one of our Keepers of the Code, a fellow sea faring adventurer and a valued member of our community who has been making waves in the pirate world.",
+                "category": "Community",
+                "sectionImg": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/26QPSLX200ITapkCL8vZbm/deae2fcf97099475037fcfbcad130e6b/website__1_.jpg?imWidth=1800",
+                "link": "https://www.ubisoft.com/en-gb/news/ignt.54048/community-spotlight-chargingcharlie",
+                "releaseDate": "2025-08-12"
+                },
+                {
+                "id": "c9d5e1f4-6071-89ab-cdef-012345678902",
+                "title": "Live Patch 2.61.3 – FOR HONOR",
+                "gameBrand": "For Honor",
+                "description": "One after-effect of Anti-gank changes was that hits caused by minions were being treated like normal player attack hitstuns. This led victims to for subsequent attacks with extra damage scaling. This caused some attacks, such a Sohei's Seven-Force Strike, to deal less damage when a minion would hit Sohei's opponent after God Hand but before Seven-Force Strike lands. This should no longer occur.",
+                "category": "Game Updates",
+                "sectionImg": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3Fi6mlLC2nWlY4b6pMcCcj/1f3d16447b615e1e856f3cd620abbca2/Live_Patch_2.61.3.jpg?imWidth=1800",
+                "link": "https://www.ubisoft.com/en-gb/news/ignt.54047/live-patch-2-61-3-for-honor",
+                "releaseDate": "2025-08-10"
+                },
+                {
+                "id": "d0e6f2g5-7182-9abc-def0-123456789013",
+                "title": "Y10S2 Mid-Season Roadmap Update",
+                "gameBrand": "Rainbow Six Siege",
+                "description": "In our latest roadmap update, we've got further insights into the development of upcoming features, ensuring transparent communication with all players. Each update and decision we've made takes into account various elements such as player feedback, the time allocated to ensure the quality of the features delivered, and more.",
+                "category": "Development",
+                "sectionImg": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1hXqxoBQAqRz6Gfc2klIcV/627dc503512f614c8f879a905e9f0103/R6_Y10S2_RoadmapHeader.960x540.jpg?imWidth=600",
+                "link": "https://www.ubisoft.com/en-gb/news/ignt.54033/y10s2-mid-season-roadmap-update",
+                "releaseDate": "2025-08-08"
+                },
+                {
+                "id": "e1f7g3h6-8293-0bcd-ef01-23456789a124",
+                "title": "This Week in The Crew - August 5th",
+                "gameBrand": "The Crew Motorfest",
+                "description": "Welcome to \"This Week in The Crew\" article! Every week, we bring the news of the weekly novelties in The Crew Motorfest to you to help get you started!",
+                "category": "Weekly Update",
+                "sectionImg": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4dBA0c3O4ZjMsg1CfK1oPf/993d41d59c9446d52bfbe871e3acc767/S07_W06_L-ELEGANCE_MKT_THUMBNAIL.jpg?imWidth=600",
+                "link": "https://www.ubisoft.com/en-gb/news/ignt.54031/this-week-in-the-crew-august-5th",
+                "releaseDate": "2025-08-05"
+                },
+                {
+                "id": "f2g8h4i7-93a4-1cde-f012-3456789ab235",
+                "title": "Letter from the Producer",
+                "gameBrand": "Skull and Bones",
+                "description": "As we are now almost halfway through Year 2 of Skull and Bones, we wanted to take a minute to look back at how far we've come and get a glimpse of what's next.",
+                "category": "Developer Update",
+                "sectionImg": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6X5hISoaeLhYhw72Y8TbJe/587350832485ba44ac1c17e8aa5bbef5/960x540__1_.jpg?imWidth=600",
+                "link": "https://www.ubisoft.com/en-gb/news/ignt.54030/letter-from-the-producer",
+                "releaseDate": "2025-08-03"
+                },
+                {
+                "id": "g3h9i5j8-a4b5-2def-0123-456789abc346",
+                "title": "Your Guide to EWC 2025",
+                "gameBrand": "Rainbow Six Siege",
+                "description": "It's time for the world's top teams to prove themselves after their regional playoffs in the Esports World Cup in Riyadh. And for the first time, it will be part of the BLAST R6 cycle, on Siege X!",
+                "category": "Esports",
+                "sectionImg": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3TZYE0wQ878QMZRR6jKucR/0efe6620aa6d6027f5c155cbaed1aa4c/16x9_rainbow-six-siege-esports-world-cup-2025.jpg?imWidth=600",
+                "link": "https://www.ubisoft.com/en-gb/news/ignt.54011/your-guide-to-ewc-2025",
+                "releaseDate": "2025-08-01"
+                },
+                {
+                "id": "h4i0j6k9-b5c6-3ef0-1234-56789abcd457",
+                "title": "Just Dance 2026 Launches October 14",
+                "gameBrand": "Just Dance 2026",
+                "description": "Get ready to turn your home into a dance floor. Just Dance 2026 Edition is coming this October 14 with a brand-new tracklist and two fun new game modes. This year's edition is made for every kind of dancer, from casual players to party pros.",
+                "category": "Game Release",
+                "sectionImg": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7L2KWR4YOO66n5uR7HCGb/7ee616406b1920a6d721da484173202f/EGST_Edition_Thumbnail_960x540.jpg?imWidth=600",
+                "link": "https://www.ubisoft.com/en-gb/news/ignt.54001/just-dance-2026-launches-october-14",
+                "releaseDate": "2025-07-30"
+                },
+                {
+                "id": "i5j1k7l0-c6d7-4f01-2345-6789abcde568",
+                "title": "Rainbow Six Siege Rengoku Event Unleashes Kunai-Powered Chaos",
+                "gameBrand": "Rainbow Six Siege",
+                "description": "The eternal battle between the Sun Goddess and the Storm God rages once more in Rainbow Six Siege as the Rengoku event returns, running from today through August 13. The limited-time, control area-style game mode pits two teams of five against each other, armed with shotguns and throwable kunai that unleash an array of special powers. Returning effects like flash, knockback, fire, poison, and others are joined by the new heal and freeze kunai to further fuel the creative chaos of combat. These primary gadget effects are complemented by the secondary gadget options - explosive or barrier kunai - that help teams build up or break down defenses. Consider that every Operator in the match is dressed in stylish Rengoku Collection gear, and you've got an event that plays like no other in Siege.",
+                "category": "Special Event",
+                "sectionImg": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2DgI2fsRoEclWcovtNqiSV/3165ac40e63487f266fbc0bb3750cfca/R6S_Rengoku_2025.jpg?imWidth=600",
+                "link": "https://www.ubisoft.com/en-gb/news/ignt.53955/rainbow-six-siege-rengoku-event-unleashes-kunai-powered-chaos",
+                "releaseDate": "2025-07-28"
+                },
+                {
+                "id": "j6k2l8m1-d7e8-5012-3456-789abcdef679",
+                "title": "This Week in The Crew - July 29",
+                "gameBrand": "The Crew Motorfest",
+                "description": "Welcome to \"This Week in The Crew\" article! Every week, we bring the news of the weekly novelties in The Crew Motorfest to you to help get you started!",
+                "category": "Weekly Update",
+                "sectionImg": "https://ubiservices.cdn.ubi.com/a19a847d-d482-4b92-9714-10cf73c28d23/news/FERRARI_THUMBNAIL.jpg?imWidth=600",
+                "link": "https://www.ubisoft.com/en-gb/news/ignt.53923/this-week-in-the-crew-july-29",
+                "releaseDate": "2025-07-29"
+                },
+                {
+                "id": "k7l3m9n2-e8f9-6123-4567-89abcdef078a",
+                "title": "AC Shadows Title Update 1.0.7 - Release Notes",
+                "gameBrand": "Assassin's Creed Shadows",
+                "description": "Thank you to everyone who has taken the time to report these issues to us via the Bug reporter. As always, you can contact our support team if you run into any trouble.",
+                "category": "Game Updates",
+                "sectionImg": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/KdNr83GEJnH87dHih3red/7a88fc955b4940d49435d594a43931df/ACSH_TU_ASSET_16x9_1.0.7_HEADER.png?imWidth=600",
+                "link": "https://www.ubisoft.com/en-gb/news/ignt.53909/ac-shadows-title-update-1-0-7-release-notes",
+                "releaseDate": "2025-07-25"
+                },
+                {
+                "id": "l8m4n0o3-f9g0-7234-5678-9abcdef0189b",
+                "title": "Season 7 Content Overview",
+                "gameBrand": "The Crew Motorfest",
+                "description": "Season 7 of The Crew Motorfest arrives in style, and this time, it's all about luxury, legacy, and high-performance precision. From brand-new playlists to exotic cars and immersive experiences, this season is packed with content designed to take your festival experience to the next level.",
+                "category": "Season Update",
+                "sectionImg": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4Zn6ovYteAectZlNc3J4KP/686a2f8d5488e214ebdd8160b6003e34/S7_CONTENT_OVERVIEW_THUMBNAIL.jpg?imWidth=600",
+                "link": "https://www.ubisoft.com/en-gb/news/ignt.53276/season-7-content-overview",
+                "releaseDate": "2025-07-22"
+                },
+                {
+                "id": "m9n5o1p4-g0h1-8345-6789-abcdef0129ac",
+                "title": "Brawlhalla Tales: Nix, A New Graphic Novel, Out Now",
+                "gameBrand": "Brawlhalla",
+                "description": "Brawlhalla's first-ever graphic novel, Brawlhalla Tales: Nix, is out now from publisher Dark Horse Comics. Inspired by the free-to-play fighting game, the story follows the Legend Nix, an angel of death and one of the Underworld's best reapers. When she sets her mark, she never misses, until a rogue Valkyrie throws her off her game. Now, she's traveling across the Nine Realms in search of her lost bounty and needs to win Odin's tournament of heroes if she wants to keep her job - and her soul.",
+                "category": "Entertainment",
+                "sectionImg": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1sMdVAXEvrKdJUotBWWS04/cdbf67bda125cca71edb7fbd04e0deb3/Brawlhalla_Nix.jpg?imWidth=600",
+                "link": "https://www.ubisoft.com/en-gb/news/ignt.53013/brawlhalla-tales-nix-a-new-graphic-novel-out-now",
+                "releaseDate": "2025-07-20"
+                }
+            ]
             ]
 
 
