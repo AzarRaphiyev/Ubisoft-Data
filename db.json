@@ -2474,7 +2474,1301 @@
                 "multiplayer": false,
                 "region": "Global"
                 
-            }
+            },
+            {
+                "id": "63bc67dbd406ab22f1174305",
+                "title": "The Crew Motorfest",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw8237c93e/ORLANDO/LOGO_TC_MOTORFEST-01_resize.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw21a98c4a/images/large/63bc67dbd406ab22f1174305.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw06a5604a/images/VF_Orlando_Banner_STD_DESK.jpg?sw=1920&sfrm=jpg",
+                "sectionImg": "",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw44ebdf63/images/large/63bc67dbd406ab22f1174305-1.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw2536739f/images/large/63bc67dbd406ab22f1174305-2.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw7032e6f1/images/large/63bc67dbd406ab22f1174305-3.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw12e1f086/images/large/63bc67dbd406ab22f1174305-4.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwdb60d9b9/images/large/63bc67dbd406ab22f1174305-5.jpg?sw=1450&sh=815&sm=fit"
+                    ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw1b32f76e/ORLANDO/Orlando_Immersive_01_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwbf376516/ORLANDO/Orlando_Immersive_02_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw015292d7/ORLANDO/Orlando_Immersive_03_DESK.jpg"
+                ],
+                "videos": [
+                  "https://www.youtube.com/watch?v=itM9899_WEE",
+                  "https://www.youtube.com/watch?v=qwI2qX8eVQA",
+                  "https://www.youtube.com/watch?v=RavvLJuhen8"
+                ],
+                "price": 69.99,
+                "discount": 20,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 10,
+                "releaseDate": "2023-09-14",
+                "publisher": "UBISOFT",
+                "developer": "Ivory Tower",
+                "genre": [
+                  "Racing"
+                ],
+                "platforms": [
+                  "PC",
+                  "PS4",
+                  "PS5",
+                  "Xbox",
+                  "Steam"
+                ],
+                "languages": [
+                  {
+                    "language": "English",
+                    "audio": true,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "French",
+                    "audio": true,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "German",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Italian",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Spanish",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Polish",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Portuguese - Brazil",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Simplified Chinese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Traditional Chinese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Russian",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Japanese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  }
+                ],
+                "brand": "The Crew",
+                "productEdition": "Standard Edition",
+                "shortDescription": "Buy The Crew Motorfest - Available Day 1 on Ubisoft+. Bring your The Crew 2 garage to The Crew Motorfest with the Collection Import!",
+                "fullDescription": [
+                  {
+                    "heading": "RACING FESTIVAL",
+                    "content": "Experience the ultimate racing festival in the heart of O'ahu, Hawaii."
+                  },
+                  {
+                    "heading": "COLLECTION IMPORT",
+                    "content": "Bring your The Crew 2 garage to The Crew Motorfest with the Collection Import feature."
+                  },
+                  {
+                    "heading": "PREMIUM EXPERIENCE",
+                    "content": "Play the premium edition through Ubisoft+ on PC & Xbox."
+                  }
+                ],
+                "ageRating": {
+                  "rating": 12,
+                  "reasons": [
+                    "Bad Language",
+                    "Sexual content",
+                    "In-Game Purchases"
+                  ]
+                },
+                "features": [
+                  "Single Player",
+                  "Multiplayer",
+                  "Online",
+                  "Collection Import"
+                ],
+                "systemRequirements": {
+                  "minimum": {
+                    "os": "Windows 10 (64 bit only)",
+                    "cpu": "AMD Ryzen5 1400 @ 3.2 GHz, Intel Core i5-4460 @ 3.2 GHz (Haswell &/or newer)",
+                    "gpu": "AMD Radeon RX 480 (8 GB), NVIDIA GeForce GTX 1060 (6 GB), or better",
+                    "ram": "8GB (Dual-channel setup)",
+                    "vram": "6GB",
+                    "storage": "40GB (SSD recommended)"
+                  },
+                  "recommended": {
+                    "os": "Windows 10 (64 bit only)",
+                    "cpu": "Intel Core i5-8400, AMD Ryzen7 2700X",
+                    "gpu": "NVIDIA GeForce RTX 2060 6GB or AMD Radeon RX 5700XT 8GB",
+                    "ram": "8GB (Dual-channel setup)",
+                    "vram": "6GB",
+                    "storage": "40GB (SSD recommended)"
+                  },
+                  "high": {
+                    "os": "Windows 10 (64 bit only)",
+                    "cpu": "Intel Core i5-10600K, AMD Ryzen5 3600",
+                    "gpu": "NVIDIA GeForce RTX3070 8GB or AMD Radeon RX 6700XT 12GB",
+                    "ram": "16GB (Dual-channel setup)",
+                    "vram": "8GB",
+                    "storage": "40GB (SSD recommended)"
+                  },
+                  "ultra": {
+                    "os": "Windows 10 (64 bit only)",
+                    "cpu": "Intel Core i5-11600K, AMD Ryzen5 3600X",
+                    "gpu": "NVIDIA GeForce RTX 3090 24GB or AMD Radeon RX 7900 XT 20GB",
+                    "ram": "16GB (Dual-channel setup)",
+                    "vram": "20GB",
+                    "storage": "40GB (SSD recommended)"
+                  }
+                },
+                "multiplayer": true,
+                "region": "Global",
+                "availability": true,
+                "additionalInfo": {
+                  "antiCheat": "BattlEye Anti-Cheat solution",
+                  "internetRequired": true,
+                  "ubisoftConnect": true,
+                  "ubisoftPlus": true
+                }
+              },
+              {
+                "id": "63bc67dbd406ab22f1174311",
+                "title": "The Crew Motorfest",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw8237c93e/ORLANDO/LOGO_TC_MOTORFEST-01_resize.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dweff8a917/images/large/66ebdc5da0ab664f5fb9473f.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw2ae1e354/images/pdpbanner/66ebdc5da0ab664f5fb9473f-bg.jpg?sw=1920&sfrm=jpg",
+                "sectionImg": "",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa9780057/images/large/66ebdc5da0ab664f5fb9473f-0.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw86b82b0c/images/large/66ebdc5da0ab664f5fb9473f-1.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw3b9b88f6/images/large/66ebdc5da0ab664f5fb9473f-2.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa9d0146e/images/large/66ebdc5da0ab664f5fb9473f-3.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa0f3fe39/images/large/66ebdc5da0ab664f5fb9473f-4.jpg?sw=1450&sh=815&sm=fit"
+                ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw1b32f76e/ORLANDO/Orlando_Immersive_01_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwbf376516/ORLANDO/Orlando_Immersive_02_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw015292d7/ORLANDO/Orlando_Immersive_03_DESK.jpg"
+                ],
+                "videos": [
+                  "https://www.youtube.com/watch?v=itM9899_WEE",
+                  "https://www.youtube.com/watch?v=qwI2qX8eVQA",
+                  "https://www.youtube.com/watch?v=RavvLJuhen8"
+                ],
+                "price": 119.99,
+                "discount": 20,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 10,
+                "releaseDate": "2023-09-14",
+                "publisher": "UBISOFT",
+                "developer": "Ivory Tower",
+                "genre": [
+                  "Racing"
+                ],
+                "platforms": [
+                  "PC",
+                  "PS4",
+                  "PS5",
+                  "Xbox",
+                  "Steam"
+                ],
+                "languages": [
+                  {
+                    "language": "English",
+                    "audio": true,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "French",
+                    "audio": true,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "German",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Italian",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Spanish",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Polish",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Portuguese - Brazil",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Simplified Chinese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Traditional Chinese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Russian",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Japanese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  }
+                ],
+                "brand": "The Crew",
+                "productEdition": "Ultimate Edition",
+                "shortDescription": "Buy The Crew Motorfest - Available Day 1 on Ubisoft+. Bring your The Crew 2 garage to The Crew Motorfest with the Collection Import!",
+                "fullDescription": [
+                  {
+                    "heading": "RACING FESTIVAL",
+                    "content": "Experience the ultimate racing festival in the heart of O'ahu, Hawaii."
+                  },
+                  {
+                    "heading": "COLLECTION IMPORT",
+                    "content": "Bring your The Crew 2 garage to The Crew Motorfest with the Collection Import feature."
+                  },
+                  {
+                    "heading": "PREMIUM EXPERIENCE",
+                    "content": "Play the premium edition through Ubisoft+ on PC & Xbox."
+                  }
+                ],
+                "ageRating": {
+                  "rating": 12,
+                  "reasons": [
+                    "Bad Language",
+                    "Sexual content",
+                    "In-Game Purchases"
+                  ]
+                },
+                "features": [
+                  "Single Player",
+                  "Multiplayer",
+                  "Online",
+                  "Collection Import"
+                ],
+                "systemRequirements": {
+                  "minimum": {
+                    "os": "Windows 10 (64 bit only)",
+                    "cpu": "AMD Ryzen5 1400 @ 3.2 GHz, Intel Core i5-4460 @ 3.2 GHz (Haswell &/or newer)",
+                    "gpu": "AMD Radeon RX 480 (8 GB), NVIDIA GeForce GTX 1060 (6 GB), or better",
+                    "ram": "8GB (Dual-channel setup)",
+                    "vram": "6GB",
+                    "storage": "40GB (SSD recommended)"
+                  },
+                  "recommended": {
+                    "os": "Windows 10 (64 bit only)",
+                    "cpu": "Intel Core i5-8400, AMD Ryzen7 2700X",
+                    "gpu": "NVIDIA GeForce RTX 2060 6GB or AMD Radeon RX 5700XT 8GB",
+                    "ram": "8GB (Dual-channel setup)",
+                    "vram": "6GB",
+                    "storage": "40GB (SSD recommended)"
+                  },
+                  "high": {
+                    "os": "Windows 10 (64 bit only)",
+                    "cpu": "Intel Core i5-10600K, AMD Ryzen5 3600",
+                    "gpu": "NVIDIA GeForce RTX3070 8GB or AMD Radeon RX 6700XT 12GB",
+                    "ram": "16GB (Dual-channel setup)",
+                    "vram": "8GB",
+                    "storage": "40GB (SSD recommended)"
+                  },
+                  "ultra": {
+                    "os": "Windows 10 (64 bit only)",
+                    "cpu": "Intel Core i5-11600K, AMD Ryzen5 3600X",
+                    "gpu": "NVIDIA GeForce RTX 3090 24GB or AMD Radeon RX 7900 XT 20GB",
+                    "ram": "16GB (Dual-channel setup)",
+                    "vram": "20GB",
+                    "storage": "40GB (SSD recommended)"
+                  }
+                },
+                "multiplayer": true,
+                "region": "Global",
+                "availability": true,
+                "additionalInfo": {
+                  "antiCheat": "BattlEye Anti-Cheat solution",
+                  "internetRequired": true,
+                  "ubisoftConnect": true,
+                  "ubisoftPlus": true
+                }
+              },
+              {
+                "id": "63bc67dbd406ab22f1174310",
+                "title": "The Crew Motorfest",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw8237c93e/ORLANDO/LOGO_TC_MOTORFEST-01_resize.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwc563f8cc/images/large/65084cc20d89fc171b3ceb72.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw2ae1e354/images/pdpbanner/66ebdc5da0ab664f5fb9473f-bg.jpg?sw=1920&sfrm=jpg",
+                "sectionImg": "",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa9780057/images/large/66ebdc5da0ab664f5fb9473f-0.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw86b82b0c/images/large/66ebdc5da0ab664f5fb9473f-1.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw3b9b88f6/images/large/66ebdc5da0ab664f5fb9473f-2.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa9d0146e/images/large/66ebdc5da0ab664f5fb9473f-3.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa0f3fe39/images/large/66ebdc5da0ab664f5fb9473f-4.jpg?sw=1450&sh=815&sm=fit"
+                ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw1b32f76e/ORLANDO/Orlando_Immersive_01_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwbf376516/ORLANDO/Orlando_Immersive_02_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw015292d7/ORLANDO/Orlando_Immersive_03_DESK.jpg"
+                ],
+                "videos": [
+                  "https://www.youtube.com/watch?v=itM9899_WEE",
+                  "https://www.youtube.com/watch?v=qwI2qX8eVQA",
+                  "https://www.youtube.com/watch?v=RavvLJuhen8"
+                ],
+                "price": 79.99,
+                "discount": 10,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 10,
+                "releaseDate": "2023-09-14",
+                "publisher": "UBISOFT",
+                "developer": "Ivory Tower",
+                "genre": [
+                  "Racing"
+                ],
+                "platforms": [
+                  "PC",
+                  "PS4",
+                  "PS5",
+                  "Xbox",
+                  "Steam"
+                ],
+                "languages": [
+                  {
+                    "language": "English",
+                    "audio": true,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "French",
+                    "audio": true,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "German",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Italian",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Spanish",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Polish",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Portuguese - Brazil",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Simplified Chinese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Traditional Chinese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Russian",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Japanese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  }
+                ],
+                "brand": "The Crew",
+                "productEdition": "Deluxe Edition",
+                "shortDescription": "Buy The Crew Motorfest - Available Day 1 on Ubisoft+. Bring your The Crew 2 garage to The Crew Motorfest with the Collection Import!",
+                "fullDescription": [
+                  {
+                    "heading": "RACING FESTIVAL",
+                    "content": "Experience the ultimate racing festival in the heart of O'ahu, Hawaii."
+                  },
+                  {
+                    "heading": "COLLECTION IMPORT",
+                    "content": "Bring your The Crew 2 garage to The Crew Motorfest with the Collection Import feature."
+                  },
+                  {
+                    "heading": "PREMIUM EXPERIENCE",
+                    "content": "Play the premium edition through Ubisoft+ on PC & Xbox."
+                  }
+                ],
+                "ageRating": {
+                  "rating": 12,
+                  "reasons": [
+                    "Bad Language",
+                    "Sexual content",
+                    "In-Game Purchases"
+                  ]
+                },
+                "features": [
+                  "Single Player",
+                  "Multiplayer",
+                  "Online",
+                  "Collection Import"
+                ],
+                "systemRequirements": {
+                  "minimum": {
+                    "os": "Windows 10 (64 bit only)",
+                    "cpu": "AMD Ryzen5 1400 @ 3.2 GHz, Intel Core i5-4460 @ 3.2 GHz (Haswell &/or newer)",
+                    "gpu": "AMD Radeon RX 480 (8 GB), NVIDIA GeForce GTX 1060 (6 GB), or better",
+                    "ram": "8GB (Dual-channel setup)",
+                    "vram": "6GB",
+                    "storage": "40GB (SSD recommended)"
+                  },
+                  "recommended": {
+                    "os": "Windows 10 (64 bit only)",
+                    "cpu": "Intel Core i5-8400, AMD Ryzen7 2700X",
+                    "gpu": "NVIDIA GeForce RTX 2060 6GB or AMD Radeon RX 5700XT 8GB",
+                    "ram": "8GB (Dual-channel setup)",
+                    "vram": "6GB",
+                    "storage": "40GB (SSD recommended)"
+                  },
+                  "high": {
+                    "os": "Windows 10 (64 bit only)",
+                    "cpu": "Intel Core i5-10600K, AMD Ryzen5 3600",
+                    "gpu": "NVIDIA GeForce RTX3070 8GB or AMD Radeon RX 6700XT 12GB",
+                    "ram": "16GB (Dual-channel setup)",
+                    "vram": "8GB",
+                    "storage": "40GB (SSD recommended)"
+                  },
+                  "ultra": {
+                    "os": "Windows 10 (64 bit only)",
+                    "cpu": "Intel Core i5-11600K, AMD Ryzen5 3600X",
+                    "gpu": "NVIDIA GeForce RTX 3090 24GB or AMD Radeon RX 7900 XT 20GB",
+                    "ram": "16GB (Dual-channel setup)",
+                    "vram": "20GB",
+                    "storage": "40GB (SSD recommended)"
+                  }
+                },
+                "multiplayer": true,
+                "region": "Global",
+                "availability": true,
+                "additionalInfo": {
+                  "antiCheat": "BattlEye Anti-Cheat solution",
+                  "internetRequired": true,
+                  "ubisoftConnect": true,
+                  "ubisoftPlus": true
+                }
+              },
+              {
+                "id": "63bc67dbd406ab22f1174314",
+                "title": "The Crew Motorfest",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw8237c93e/ORLANDO/LOGO_TC_MOTORFEST-01_resize.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwe2464656/images/large/66ebdb89a0ab664f5fb9473d.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw4e3dcfcb/images/pdpbanner/66ebdb89a0ab664f5fb9473d-bg.jpg?sw=1920&sfrm=jpg",
+                "sectionImg": "",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa9780057/images/large/66ebdc5da0ab664f5fb9473f-0.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw86b82b0c/images/large/66ebdc5da0ab664f5fb9473f-1.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw3b9b88f6/images/large/66ebdc5da0ab664f5fb9473f-2.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa9d0146e/images/large/66ebdc5da0ab664f5fb9473f-3.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa0f3fe39/images/large/66ebdc5da0ab664f5fb9473f-4.jpg?sw=1450&sh=815&sm=fit"
+                ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw1b32f76e/ORLANDO/Orlando_Immersive_01_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwbf376516/ORLANDO/Orlando_Immersive_02_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw015292d7/ORLANDO/Orlando_Immersive_03_DESK.jpg"
+                ],
+                "videos": [
+                  "https://www.youtube.com/watch?v=itM9899_WEE",
+                  "https://www.youtube.com/watch?v=qwI2qX8eVQA",
+                  "https://www.youtube.com/watch?v=RavvLJuhen8"
+                ],
+                "price": 99.99,
+                "discount": 0,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 0,
+                "releaseDate": "2023-09-14",
+                "publisher": "UBISOFT",
+                "developer": "Ivory Tower",
+                "genre": [
+                  "Racing"
+                ],
+                "platforms": [
+                  "PC",
+                  "PS4",
+                  "PS5",
+                  "Xbox",
+                  "Steam"
+                ],
+                "languages": [
+                  {
+                    "language": "English",
+                    "audio": true,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "French",
+                    "audio": true,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "German",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Italian",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Spanish",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Polish",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Portuguese - Brazil",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Simplified Chinese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Traditional Chinese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Russian",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Japanese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  }
+                ],
+                "brand": "The Crew",
+                "productEdition": "Gold Edition",
+                "shortDescription": "Buy The Crew Motorfest - Available Day 1 on Ubisoft+. Bring your The Crew 2 garage to The Crew Motorfest with the Collection Import!",
+                "fullDescription": [
+                  {
+                    "heading": "RACING FESTIVAL",
+                    "content": "Experience the ultimate racing festival in the heart of O'ahu, Hawaii."
+                  },
+                  {
+                    "heading": "COLLECTION IMPORT",
+                    "content": "Bring your The Crew 2 garage to The Crew Motorfest with the Collection Import feature."
+                  },
+                  {
+                    "heading": "PREMIUM EXPERIENCE",
+                    "content": "Play the premium edition through Ubisoft+ on PC & Xbox."
+                  }
+                ],
+                "ageRating": {
+                  "rating": 12,
+                  "reasons": [
+                    "Bad Language",
+                    "Sexual content",
+                    "In-Game Purchases"
+                  ]
+                },
+                "features": [
+                  "Single Player",
+                  "Multiplayer",
+                  "Online",
+                  "Collection Import"
+                ],
+                "systemRequirements": {
+                  "minimum": {
+                    "os": "Windows 10 (64 bit only)",
+                    "cpu": "AMD Ryzen5 1400 @ 3.2 GHz, Intel Core i5-4460 @ 3.2 GHz (Haswell &/or newer)",
+                    "gpu": "AMD Radeon RX 480 (8 GB), NVIDIA GeForce GTX 1060 (6 GB), or better",
+                    "ram": "8GB (Dual-channel setup)",
+                    "vram": "6GB",
+                    "storage": "40GB (SSD recommended)"
+                  },
+                  "recommended": {
+                    "os": "Windows 10 (64 bit only)",
+                    "cpu": "Intel Core i5-8400, AMD Ryzen7 2700X",
+                    "gpu": "NVIDIA GeForce RTX 2060 6GB or AMD Radeon RX 5700XT 8GB",
+                    "ram": "8GB (Dual-channel setup)",
+                    "vram": "6GB",
+                    "storage": "40GB (SSD recommended)"
+                  },
+                  "high": {
+                    "os": "Windows 10 (64 bit only)",
+                    "cpu": "Intel Core i5-10600K, AMD Ryzen5 3600",
+                    "gpu": "NVIDIA GeForce RTX3070 8GB or AMD Radeon RX 6700XT 12GB",
+                    "ram": "16GB (Dual-channel setup)",
+                    "vram": "8GB",
+                    "storage": "40GB (SSD recommended)"
+                  },
+                  "ultra": {
+                    "os": "Windows 10 (64 bit only)",
+                    "cpu": "Intel Core i5-11600K, AMD Ryzen5 3600X",
+                    "gpu": "NVIDIA GeForce RTX 3090 24GB or AMD Radeon RX 7900 XT 20GB",
+                    "ram": "16GB (Dual-channel setup)",
+                    "vram": "20GB",
+                    "storage": "40GB (SSD recommended)"
+                  }
+                },
+                "multiplayer": true,
+                "region": "Global",
+                "availability": true,
+                "additionalInfo": {
+                  "antiCheat": "BattlEye Anti-Cheat solution",
+                  "internetRequired": true,
+                  "ubisoftConnect": true,
+                  "ubisoftPlus": true
+                }
+              },
+              {
+                "id": "592450934e0165f46c8b4569",
+                "title": "Assassin's Creed Origins",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwc56a8d29/ACO/Logo_Origins.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw0492e594/images/large/59245fb4adc724ef3f8b456c.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw0492e594/images/large/59245fb4adc724ef3f8b456c.jpg?sw=300&sh=395&sm=fit",
+                "sectionImg": "",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw39bf4244/images/large/592450934e0165f46c8b4568-7.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw302f122c/images/large/592450934e0165f46c8b4568-1.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw2ed8c4c1/images/large/592450934e0165f46c8b4568-2.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw7fa72b5e/images/large/592450934e0165f46c8b4568-3.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw33b7bed8/images/large/592450934e0165f46c8b4568-4.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw2b3fb45b/images/large/592450934e0165f46c8b4568-5.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa1b9a23d/images/large/592450934e0165f46c8b4568-6.jpg?sw=1450&sh=815&sm=fit"
+                ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwc2171975/ACO/ACO_IMMERSIVE-BLOC-1_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw9b04810d/ACO/ACO_IMMERSIVE-BLOC-2_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw4d522e1b/ACO/ACO_IMMERSIVE-BLOC-3_DESK.jpg"
+                ],
+                "videos": [],
+                "price": 89.99,
+                "discount": 85,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 0,
+                "releaseDate": "2017-10-27",
+                "publisher": "UBISOFT",
+                "developer": "Ubisoft Montreal",
+                "genre": [
+                  "Action",
+                  "Adventure"
+                ],
+                "platforms": [
+                  "PC",
+                  "PS4",
+                  "Xbox",
+                  "Steam"
+                ],
+                "languages": [
+                  {
+                    "language": "English",
+                    "audio": true,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "French",
+                    "audio": true,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Italian",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "German",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Spanish",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Portuguese - Brazil",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Russian",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Japanese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Polish",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Simplified Chinese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Traditional Chinese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Czech",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Dutch",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Korean",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  }
+                ],
+                "brand": "Assassin's Creed",
+                "productEdition": "Gold Edition",
+                "shortDescription": "Explore Ancient Egypt in this action-adventure game. Battle powerful enemies, unveil conspiracies, and discover the origin story of the Assassin's Brotherhood.",
+                "fullDescription": [
+                  {
+                    "heading": "ANCIENT EGYPT AWAITS",
+                    "content": "Explore Ancient Egypt like never before in this immersive action-adventure experience."
+                  },
+                  {
+                    "heading": "ORIGIN STORY",
+                    "content": "Discover the origin story of the Assassin's Brotherhood and their ancient struggle against the Templars."
+                  },
+                  {
+                    "heading": "EPIC BATTLES",
+                    "content": "Battle powerful enemies and unveil dark conspiracies that threaten the ancient world."
+                  }
+                ],
+                "ageRating": {
+                  "rating": 18,
+                  "reasons": [
+                    "Bad Language",
+                    "Sexual content",
+                    "In-Game Purchases",
+                    "Violence"
+                  ]
+                },
+                "features": [
+                  "Single Player"
+                ],
+                "systemRequirements": {
+                  "minimum": {
+                    "os": "Windows 10 (64-bit only)",
+                    "cpu": "Intel Core i5-2400s @ 2.5 GHz or AMD FX-6350 @ 3.9 GHz or equivalent",
+                    "gpu": "NVIDIA GeForce GTX 660 or AMD R9 270 (2048 MB VRAM with Shader Model 5.0 or better)",
+                    "ram": "6GB",
+                    "vram": "2048 MB",
+                    "storage": "42GB"
+                  },
+                  "recommended": {
+                    "os": "Windows 10 (64-bit only)",
+                    "cpu": "Intel Core i7- 3770 @ 3.5 GHz or AMD FX-8350 @ 4.0 GHz",
+                    "gpu": "NVIDIA GeForce GTX 760 or AMD R9 280X (3GB VRAM with Shader Model 5.0 or better)",
+                    "ram": "8GB",
+                    "vram": "3GB",
+                    "storage": "42GB"
+                  }
+                },
+                "multiplayer": false,
+                "region": "Global",
+                "availability": true,
+                "additionalInfo": {
+                  "antiTamper": "Denuvo Digital Rights Management tool (DRM)",
+                  "singlePlayer": true,
+                  "dlcCount": 6
+                }
+              },
+              {
+                "id": "592450934e0165f46c8b4570",
+                "title": "Assassin's Creed Origins",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwc56a8d29/ACO/Logo_Origins.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwe0fd4676/images/large/5924576188a7e3bc5a8b4568.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw26e5dec8/images/pdpbanner/592450934e0165f46c8b4568.jpg?sw=1920&sfrm=jpg",
+                "sectionImg": "",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw39bf4244/images/large/592450934e0165f46c8b4568-7.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw302f122c/images/large/592450934e0165f46c8b4568-1.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw2ed8c4c1/images/large/592450934e0165f46c8b4568-2.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw7fa72b5e/images/large/592450934e0165f46c8b4568-3.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw33b7bed8/images/large/592450934e0165f46c8b4568-4.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw2b3fb45b/images/large/592450934e0165f46c8b4568-5.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa1b9a23d/images/large/592450934e0165f46c8b4568-6.jpg?sw=1450&sh=815&sm=fit"
+                ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwc2171975/ACO/ACO_IMMERSIVE-BLOC-1_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw9b04810d/ACO/ACO_IMMERSIVE-BLOC-2_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw4d522e1b/ACO/ACO_IMMERSIVE-BLOC-3_DESK.jpg"
+                ],
+                "videos": [],
+                "price": 69.99,
+                "discount": 85,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 0,
+                "releaseDate": "2017-10-27",
+                "publisher": "UBISOFT",
+                "developer": "Ubisoft Montreal",
+                "genre": [
+                  "Action",
+                  "Adventure"
+                ],
+                "platforms": [
+                  "PC",
+                  "PS4",
+                  "Xbox",
+                  "Steam"
+                ],
+                "languages": [
+                  {
+                    "language": "English",
+                    "audio": true,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "French",
+                    "audio": true,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Italian",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "German",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Spanish",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Portuguese - Brazil",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Russian",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Japanese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Polish",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Simplified Chinese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Traditional Chinese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Czech",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Dutch",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Korean",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  }
+                ],
+                "brand": "Assassin's Creed",
+                "productEdition": "Deluxe Edition",
+                "shortDescription": "Explore Ancient Egypt in this action-adventure game. Battle powerful enemies, unveil conspiracies, and discover the origin story of the Assassin's Brotherhood.",
+                "fullDescription": [
+                  {
+                    "heading": "ANCIENT EGYPT AWAITS",
+                    "content": "Explore Ancient Egypt like never before in this immersive action-adventure experience."
+                  },
+                  {
+                    "heading": "ORIGIN STORY",
+                    "content": "Discover the origin story of the Assassin's Brotherhood and their ancient struggle against the Templars."
+                  },
+                  {
+                    "heading": "EPIC BATTLES",
+                    "content": "Battle powerful enemies and unveil dark conspiracies that threaten the ancient world."
+                  }
+                ],
+                "ageRating": {
+                  "rating": 18,
+                  "reasons": [
+                    "Bad Language",
+                    "Sexual content",
+                    "In-Game Purchases",
+                    "Violence"
+                  ]
+                },
+                "features": [
+                  "Single Player"
+                ],
+                "systemRequirements": {
+                  "minimum": {
+                    "os": "Windows 10 (64-bit only)",
+                    "cpu": "Intel Core i5-2400s @ 2.5 GHz or AMD FX-6350 @ 3.9 GHz or equivalent",
+                    "gpu": "NVIDIA GeForce GTX 660 or AMD R9 270 (2048 MB VRAM with Shader Model 5.0 or better)",
+                    "ram": "6GB",
+                    "vram": "2048 MB",
+                    "storage": "42GB"
+                  },
+                  "recommended": {
+                    "os": "Windows 10 (64-bit only)",
+                    "cpu": "Intel Core i7- 3770 @ 3.5 GHz or AMD FX-8350 @ 4.0 GHz",
+                    "gpu": "NVIDIA GeForce GTX 760 or AMD R9 280X (3GB VRAM with Shader Model 5.0 or better)",
+                    "ram": "8GB",
+                    "vram": "3GB",
+                    "storage": "42GB"
+                  }
+                },
+                "multiplayer": false,
+                "region": "Global",
+                "availability": true,
+                "additionalInfo": {
+                  "antiTamper": "Denuvo Digital Rights Management tool (DRM)",
+                  "singlePlayer": true,
+                  "dlcCount": 6
+                }
+              },
+              {
+                "id": "592450934e0165f46c8b4568",
+                "title": "Assassin's Creed Origins",
+                "type": "basedgame",
+                "logo": "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwc56a8d29/ACO/Logo_Origins.png",
+                "cardImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw7fe341f3/images/large/592450934e0165f46c8b4568.jpg?sw=300&sh=395&sm=fit",
+                "bannerImg": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw26e5dec8/images/pdpbanner/592450934e0165f46c8b4568.jpg?sw=1920&sfrm=jpg",
+                "sectionImg": "",
+                "screenshots": [
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw39bf4244/images/large/592450934e0165f46c8b4568-7.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw302f122c/images/large/592450934e0165f46c8b4568-1.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw2ed8c4c1/images/large/592450934e0165f46c8b4568-2.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw7fa72b5e/images/large/592450934e0165f46c8b4568-3.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw33b7bed8/images/large/592450934e0165f46c8b4568-4.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw2b3fb45b/images/large/592450934e0165f46c8b4568-5.jpg?sw=1450&sh=815&sm=fit",
+                    "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwa1b9a23d/images/large/592450934e0165f46c8b4568-6.jpg?sw=1450&sh=815&sm=fit"
+                ],
+                "descriptionImg": [
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dwc2171975/ACO/ACO_IMMERSIVE-BLOC-1_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw9b04810d/ACO/ACO_IMMERSIVE-BLOC-2_DESK.jpg",
+                    "https://store.ubisoft.com/on/demandware.static/-/Library-Sites-shared-library-web/default/dw4d522e1b/ACO/ACO_IMMERSIVE-BLOC-3_DESK.jpg"
+                ],
+                "videos": [],
+                "price": 59.99,
+                "discount": 90,
+                "isFree": false,
+                "saleCount": 0,
+                "viewCount": 0,
+                "releaseDate": "2017-10-27",
+                "publisher": "UBISOFT",
+                "developer": "Ubisoft Montreal",
+                "genre": [
+                  "Action",
+                  "Adventure"
+                ],
+                "platforms": [
+                  "PC",
+                  "PS4",
+                  "Xbox",
+                  "Steam"
+                ],
+                "languages": [
+                  {
+                    "language": "English",
+                    "audio": true,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "French",
+                    "audio": true,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Italian",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "German",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Spanish",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Portuguese - Brazil",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Russian",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Japanese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Polish",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Simplified Chinese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Traditional Chinese",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Czech",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Dutch",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  },
+                  {
+                    "language": "Korean",
+                    "audio": false,
+                    "interface": true,
+                    "subtitle": true
+                  }
+                ],
+                "brand": "Assassin's Creed",
+                "productEdition": "Standard Edition",
+                "shortDescription": "Explore Ancient Egypt in this action-adventure game. Battle powerful enemies, unveil conspiracies, and discover the origin story of the Assassin's Brotherhood.",
+                "fullDescription": [
+                  {
+                    "heading": "ANCIENT EGYPT AWAITS",
+                    "content": "Explore Ancient Egypt like never before in this immersive action-adventure experience."
+                  },
+                  {
+                    "heading": "ORIGIN STORY",
+                    "content": "Discover the origin story of the Assassin's Brotherhood and their ancient struggle against the Templars."
+                  },
+                  {
+                    "heading": "EPIC BATTLES",
+                    "content": "Battle powerful enemies and unveil dark conspiracies that threaten the ancient world."
+                  }
+                ],
+                "ageRating": {
+                  "rating": 18,
+                  "reasons": [
+                    "Bad Language",
+                    "Sexual content",
+                    "In-Game Purchases",
+                    "Violence"
+                  ]
+                },
+                "features": [
+                  "Single Player"
+                ],
+                "systemRequirements": {
+                  "minimum": {
+                    "os": "Windows 10 (64-bit only)",
+                    "cpu": "Intel Core i5-2400s @ 2.5 GHz or AMD FX-6350 @ 3.9 GHz or equivalent",
+                    "gpu": "NVIDIA GeForce GTX 660 or AMD R9 270 (2048 MB VRAM with Shader Model 5.0 or better)",
+                    "ram": "6GB",
+                    "vram": "2048 MB",
+                    "storage": "42GB"
+                  },
+                  "recommended": {
+                    "os": "Windows 10 (64-bit only)",
+                    "cpu": "Intel Core i7- 3770 @ 3.5 GHz or AMD FX-8350 @ 4.0 GHz",
+                    "gpu": "NVIDIA GeForce GTX 760 or AMD R9 280X (3GB VRAM with Shader Model 5.0 or better)",
+                    "ram": "8GB",
+                    "vram": "3GB",
+                    "storage": "42GB"
+                  }
+                },
+                "multiplayer": false,
+                "region": "Global",
+                "availability": true,
+                "additionalInfo": {
+                  "antiTamper": "Denuvo Digital Rights Management tool (DRM)",
+                  "singlePlayer": true,
+                  "dlcCount": 6
+                }
+              }
+
             
             ],
 
